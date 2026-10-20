@@ -1,0 +1,1153 @@
+datum,jahr,monat,quartal,geschaeftsbereich,region,konto,kontotyp,ist,plan,hochrechnung,abweichung
+2024-01-01,2024,1,Q1,Handel,Nord,Materialaufwand,Aufwand,35781.81,36364.24,35781.81,-582.43
+2024-01-01,2024,1,Q1,Handel,Nord,Personalaufwand,Aufwand,7664.88,8211.28,7664.88,-546.4
+2024-01-01,2024,1,Q1,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,5040.43,5278.68,5040.43,-238.25
+2024-01-01,2024,1,Q1,Handel,Nord,Umsatzerlöse,Erlös,55892.57,58652.0,55892.57,-2759.43
+2024-01-01,2024,1,Q1,Handel,Ost,Materialaufwand,Aufwand,29870.55,29752.56,29870.55,117.99
+2024-01-01,2024,1,Q1,Handel,Ost,Personalaufwand,Aufwand,6358.52,6718.32,6358.52,-359.8
+2024-01-01,2024,1,Q1,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,4246.7,4318.92,4246.7,-72.22
+2024-01-01,2024,1,Q1,Handel,Ost,Umsatzerlöse,Erlös,47906.54,47988.0,47906.54,-81.46
+2024-01-01,2024,1,Q1,Handel,Süd,Materialaufwand,Aufwand,55736.86,56199.28,55736.86,-462.42
+2024-01-01,2024,1,Q1,Handel,Süd,Personalaufwand,Aufwand,12127.22,12690.16,12127.22,-562.94
+2024-01-01,2024,1,Q1,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,8235.41,8157.96,8235.41,77.45
+2024-01-01,2024,1,Q1,Handel,Süd,Umsatzerlöse,Erlös,84801.02,90644.0,84801.02,-5842.98
+2024-01-01,2024,1,Q1,Handel,West,Materialaufwand,Aufwand,42694.75,42975.92,42694.75,-281.17
+2024-01-01,2024,1,Q1,Handel,West,Personalaufwand,Aufwand,8849.43,9704.24,8849.43,-854.81
+2024-01-01,2024,1,Q1,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,6120.82,6238.44,6120.82,-117.62
+2024-01-01,2024,1,Q1,Handel,West,Umsatzerlöse,Erlös,69696.29,69316.0,69696.29,380.29
+2024-01-01,2024,1,Q1,Industrie,Nord,Materialaufwand,Aufwand,38541.54,38142.72,38541.54,398.82
+2024-01-01,2024,1,Q1,Industrie,Nord,Personalaufwand,Aufwand,17314.34,17482.08,17314.34,-167.74
+2024-01-01,2024,1,Q1,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6928.83,7151.76,6928.83,-222.93
+2024-01-01,2024,1,Q1,Industrie,Nord,Umsatzerlöse,Erlös,79467.42,79464.0,79467.42,3.42
+2024-01-01,2024,1,Q1,Industrie,Ost,Materialaufwand,Aufwand,30191.36,31207.68,30191.36,-1016.32
+2024-01-01,2024,1,Q1,Industrie,Ost,Personalaufwand,Aufwand,14288.88,14303.52,14288.88,-14.64
+2024-01-01,2024,1,Q1,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5993.84,5851.44,5993.84,142.4
+2024-01-01,2024,1,Q1,Industrie,Ost,Umsatzerlöse,Erlös,65255.88,65016.0,65255.88,239.88
+2024-01-01,2024,1,Q1,Industrie,Süd,Materialaufwand,Aufwand,56901.9,58947.84,56901.9,-2045.94
+2024-01-01,2024,1,Q1,Industrie,Süd,Personalaufwand,Aufwand,27074.63,27017.76,27074.63,56.87
+2024-01-01,2024,1,Q1,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,11571.18,11052.72,11571.18,518.46
+2024-01-01,2024,1,Q1,Industrie,Süd,Umsatzerlöse,Erlös,120853.7,122808.0,120853.7,-1954.3
+2024-01-01,2024,1,Q1,Industrie,West,Materialaufwand,Aufwand,44098.82,45077.76,44098.82,-978.94
+2024-01-01,2024,1,Q1,Industrie,West,Personalaufwand,Aufwand,21014.86,20660.64,21014.86,354.22
+2024-01-01,2024,1,Q1,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,8557.66,8452.08,8557.66,105.58
+2024-01-01,2024,1,Q1,Industrie,West,Umsatzerlöse,Erlös,92294.16,93912.0,92294.16,-1617.84
+2024-01-01,2024,1,Q1,Service,Nord,Materialaufwand,Aufwand,4963.78,5108.4,4963.78,-144.62
+2024-01-01,2024,1,Q1,Service,Nord,Personalaufwand,Aufwand,18366.69,17709.12,18366.69,657.57
+2024-01-01,2024,1,Q1,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,2978.41,3065.04,2978.41,-86.63
+2024-01-01,2024,1,Q1,Service,Nord,Umsatzerlöse,Erlös,32889.64,34056.0,32889.64,-1166.36
+2024-01-01,2024,1,Q1,Service,Ost,Materialaufwand,Aufwand,3953.27,4179.6,3953.27,-226.33
+2024-01-01,2024,1,Q1,Service,Ost,Personalaufwand,Aufwand,14925.09,14489.28,14925.09,435.81
+2024-01-01,2024,1,Q1,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2518.24,2507.76,2518.24,10.48
+2024-01-01,2024,1,Q1,Service,Ost,Umsatzerlöse,Erlös,29189.18,27864.0,29189.18,1325.18
+2024-01-01,2024,1,Q1,Service,Süd,Materialaufwand,Aufwand,8139.17,7894.8,8139.17,244.37
+2024-01-01,2024,1,Q1,Service,Süd,Personalaufwand,Aufwand,26809.61,27368.64,26809.61,-559.03
+2024-01-01,2024,1,Q1,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,4718.36,4736.88,4718.36,-18.52
+2024-01-01,2024,1,Q1,Service,Süd,Umsatzerlöse,Erlös,52572.09,52632.0,52572.09,-59.91
+2024-01-01,2024,1,Q1,Service,West,Materialaufwand,Aufwand,6050.68,6037.2,6050.68,13.48
+2024-01-01,2024,1,Q1,Service,West,Personalaufwand,Aufwand,20031.59,20928.96,20031.59,-897.37
+2024-01-01,2024,1,Q1,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,3631.97,3622.32,3631.97,9.65
+2024-01-01,2024,1,Q1,Service,West,Umsatzerlöse,Erlös,40403.61,40248.0,40403.61,155.61
+2024-02-01,2024,2,Q1,Handel,Nord,Materialaufwand,Aufwand,37794.28,38055.6,37794.28,-261.32
+2024-02-01,2024,2,Q1,Handel,Nord,Personalaufwand,Aufwand,8863.51,8593.2,8863.51,270.31
+2024-02-01,2024,2,Q1,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,5745.63,5524.2,5745.63,221.43
+2024-02-01,2024,2,Q1,Handel,Nord,Umsatzerlöse,Erlös,60135.49,61380.0,60135.49,-1244.51
+2024-02-01,2024,2,Q1,Handel,Ost,Materialaufwand,Aufwand,30734.74,31136.4,30734.74,-401.66
+2024-02-01,2024,2,Q1,Handel,Ost,Personalaufwand,Aufwand,6969.23,7030.8,6969.23,-61.57
+2024-02-01,2024,2,Q1,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,4760.81,4519.8,4760.81,241.01
+2024-02-01,2024,2,Q1,Handel,Ost,Umsatzerlöse,Erlös,49644.86,50220.0,49644.86,-575.14
+2024-02-01,2024,2,Q1,Handel,Süd,Materialaufwand,Aufwand,57177.46,58813.2,57177.46,-1635.74
+2024-02-01,2024,2,Q1,Handel,Süd,Personalaufwand,Aufwand,13581.09,13280.4,13581.09,300.69
+2024-02-01,2024,2,Q1,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,7942.05,8537.4,7942.05,-595.35
+2024-02-01,2024,2,Q1,Handel,Süd,Umsatzerlöse,Erlös,90465.76,94860.0,90465.76,-4394.24
+2024-02-01,2024,2,Q1,Handel,West,Materialaufwand,Aufwand,44821.66,44974.8,44821.66,-153.14
+2024-02-01,2024,2,Q1,Handel,West,Personalaufwand,Aufwand,10602.4,10155.6,10602.4,446.8
+2024-02-01,2024,2,Q1,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,6686.13,6528.6,6686.13,157.53
+2024-02-01,2024,2,Q1,Handel,West,Umsatzerlöse,Erlös,71364.06,72540.0,71364.06,-1175.94
+2024-02-01,2024,2,Q1,Industrie,Nord,Materialaufwand,Aufwand,42711.56,39916.8,42711.56,2794.76
+2024-02-01,2024,2,Q1,Industrie,Nord,Personalaufwand,Aufwand,18783.3,18295.2,18783.3,488.1
+2024-02-01,2024,2,Q1,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,7170.24,7484.4,7170.24,-314.16
+2024-02-01,2024,2,Q1,Industrie,Nord,Umsatzerlöse,Erlös,81292.94,83160.0,81292.94,-1867.06
+2024-02-01,2024,2,Q1,Industrie,Ost,Materialaufwand,Aufwand,32129.61,32659.2,32129.61,-529.59
+2024-02-01,2024,2,Q1,Industrie,Ost,Personalaufwand,Aufwand,15035.48,14968.8,15035.48,66.68
+2024-02-01,2024,2,Q1,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5869.15,6123.6,5869.15,-254.45
+2024-02-01,2024,2,Q1,Industrie,Ost,Umsatzerlöse,Erlös,68523.75,68040.0,68523.75,483.75
+2024-02-01,2024,2,Q1,Industrie,Süd,Materialaufwand,Aufwand,62934.75,61689.6,62934.75,1245.15
+2024-02-01,2024,2,Q1,Industrie,Süd,Personalaufwand,Aufwand,28087.58,28274.4,28087.58,-186.82
+2024-02-01,2024,2,Q1,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,11843.27,11566.8,11843.27,276.47
+2024-02-01,2024,2,Q1,Industrie,Süd,Umsatzerlöse,Erlös,128855.19,128520.0,128855.19,335.19
+2024-02-01,2024,2,Q1,Industrie,West,Materialaufwand,Aufwand,48276.1,47174.4,48276.1,1101.7
+2024-02-01,2024,2,Q1,Industrie,West,Personalaufwand,Aufwand,22710.21,21621.6,22710.21,1088.61
+2024-02-01,2024,2,Q1,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,8636.03,8845.2,8636.03,-209.17
+2024-02-01,2024,2,Q1,Industrie,West,Umsatzerlöse,Erlös,98051.19,98280.0,98051.19,-228.81
+2024-02-01,2024,2,Q1,Service,Nord,Materialaufwand,Aufwand,5289.18,5346.0,5289.18,-56.82
+2024-02-01,2024,2,Q1,Service,Nord,Personalaufwand,Aufwand,18761.51,18532.8,18761.51,228.71
+2024-02-01,2024,2,Q1,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3194.04,3207.6,3194.04,-13.56
+2024-02-01,2024,2,Q1,Service,Nord,Umsatzerlöse,Erlös,35106.08,35640.0,35106.08,-533.92
+2024-02-01,2024,2,Q1,Service,Ost,Materialaufwand,Aufwand,4535.07,4374.0,4535.07,161.07
+2024-02-01,2024,2,Q1,Service,Ost,Personalaufwand,Aufwand,15160.33,15163.2,15160.33,-2.87
+2024-02-01,2024,2,Q1,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2677.99,2624.4,2677.99,53.59
+2024-02-01,2024,2,Q1,Service,Ost,Umsatzerlöse,Erlös,28813.13,29160.0,28813.13,-346.87
+2024-02-01,2024,2,Q1,Service,Süd,Materialaufwand,Aufwand,7939.85,8262.0,7939.85,-322.15
+2024-02-01,2024,2,Q1,Service,Süd,Personalaufwand,Aufwand,28630.05,28641.6,28630.05,-11.55
+2024-02-01,2024,2,Q1,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,4880.24,4957.2,4880.24,-76.96
+2024-02-01,2024,2,Q1,Service,Süd,Umsatzerlöse,Erlös,54699.68,55080.0,54699.68,-380.32
+2024-02-01,2024,2,Q1,Service,West,Materialaufwand,Aufwand,6462.42,6318.0,6462.42,144.42
+2024-02-01,2024,2,Q1,Service,West,Personalaufwand,Aufwand,21883.89,21902.4,21883.89,-18.51
+2024-02-01,2024,2,Q1,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,3879.48,3790.8,3879.48,88.68
+2024-02-01,2024,2,Q1,Service,West,Umsatzerlöse,Erlös,43839.11,42120.0,43839.11,1719.11
+2024-03-01,2024,3,Q1,Handel,Nord,Materialaufwand,Aufwand,43010.15,43129.68,43010.15,-119.53
+2024-03-01,2024,3,Q1,Handel,Nord,Personalaufwand,Aufwand,9750.99,9738.96,9750.99,12.03
+2024-03-01,2024,3,Q1,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6029.69,6260.76,6029.69,-231.07
+2024-03-01,2024,3,Q1,Handel,Nord,Umsatzerlöse,Erlös,67047.27,69564.0,67047.27,-2516.73
+2024-03-01,2024,3,Q1,Handel,Ost,Materialaufwand,Aufwand,35736.06,35287.92,35736.06,448.14
+2024-03-01,2024,3,Q1,Handel,Ost,Personalaufwand,Aufwand,7374.61,7968.24,7374.61,-593.63
+2024-03-01,2024,3,Q1,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5274.22,5122.44,5274.22,151.78
+2024-03-01,2024,3,Q1,Handel,Ost,Umsatzerlöse,Erlös,54662.17,56916.0,54662.17,-2253.83
+2024-03-01,2024,3,Q1,Handel,Süd,Materialaufwand,Aufwand,64653.41,66654.96,64653.41,-2001.55
+2024-03-01,2024,3,Q1,Handel,Süd,Personalaufwand,Aufwand,15563.19,15051.12,15563.19,512.07
+2024-03-01,2024,3,Q1,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,9740.99,9675.72,9740.99,65.27
+2024-03-01,2024,3,Q1,Handel,Süd,Umsatzerlöse,Erlös,108485.72,107508.0,108485.72,977.72
+2024-03-01,2024,3,Q1,Handel,West,Materialaufwand,Aufwand,49917.05,50971.44,49917.05,-1054.39
+2024-03-01,2024,3,Q1,Handel,West,Personalaufwand,Aufwand,11461.9,11509.68,11461.9,-47.78
+2024-03-01,2024,3,Q1,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,6881.73,7399.08,6881.73,-517.35
+2024-03-01,2024,3,Q1,Handel,West,Umsatzerlöse,Erlös,82468.97,82212.0,82468.97,256.97
+2024-03-01,2024,3,Q1,Industrie,Nord,Materialaufwand,Aufwand,45787.96,45239.04,45787.96,548.92
+2024-03-01,2024,3,Q1,Industrie,Nord,Personalaufwand,Aufwand,19509.41,20734.56,19509.41,-1225.15
+2024-03-01,2024,3,Q1,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,7878.07,8482.32,7878.07,-604.25
+2024-03-01,2024,3,Q1,Industrie,Nord,Umsatzerlöse,Erlös,89989.76,94248.0,89989.76,-4258.24
+2024-03-01,2024,3,Q1,Industrie,Ost,Materialaufwand,Aufwand,36746.98,37013.76,36746.98,-266.78
+2024-03-01,2024,3,Q1,Industrie,Ost,Personalaufwand,Aufwand,17381.74,16964.64,17381.74,417.1
+2024-03-01,2024,3,Q1,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,7066.37,6940.08,7066.37,126.29
+2024-03-01,2024,3,Q1,Industrie,Ost,Umsatzerlöse,Erlös,76635.89,77112.0,76635.89,-476.11
+2024-03-01,2024,3,Q1,Industrie,Süd,Materialaufwand,Aufwand,67712.74,69914.88,67712.74,-2202.14
+2024-03-01,2024,3,Q1,Industrie,Süd,Personalaufwand,Aufwand,32228.31,32044.32,32228.31,183.99
+2024-03-01,2024,3,Q1,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,14138.97,13109.04,14138.97,1029.93
+2024-03-01,2024,3,Q1,Industrie,Süd,Umsatzerlöse,Erlös,144103.79,145656.0,144103.79,-1552.21
+2024-03-01,2024,3,Q1,Industrie,West,Materialaufwand,Aufwand,52296.76,53464.32,52296.76,-1167.56
+2024-03-01,2024,3,Q1,Industrie,West,Personalaufwand,Aufwand,24680.65,24504.48,24680.65,176.17
+2024-03-01,2024,3,Q1,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,10197.54,10024.56,10197.54,172.98
+2024-03-01,2024,3,Q1,Industrie,West,Umsatzerlöse,Erlös,108141.58,111384.0,108141.58,-3242.42
+2024-03-01,2024,3,Q1,Service,Nord,Materialaufwand,Aufwand,6219.27,6058.8,6219.27,160.47
+2024-03-01,2024,3,Q1,Service,Nord,Personalaufwand,Aufwand,20382.29,21003.84,20382.29,-621.55
+2024-03-01,2024,3,Q1,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3734.39,3635.28,3734.39,99.11
+2024-03-01,2024,3,Q1,Service,Nord,Umsatzerlöse,Erlös,37923.51,40392.0,37923.51,-2468.49
+2024-03-01,2024,3,Q1,Service,Ost,Materialaufwand,Aufwand,4863.01,4957.2,4863.01,-94.19
+2024-03-01,2024,3,Q1,Service,Ost,Personalaufwand,Aufwand,17154.17,17184.96,17154.17,-30.79
+2024-03-01,2024,3,Q1,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2891.74,2974.32,2891.74,-82.58
+2024-03-01,2024,3,Q1,Service,Ost,Umsatzerlöse,Erlös,34318.71,33048.0,34318.71,1270.71
+2024-03-01,2024,3,Q1,Service,Süd,Materialaufwand,Aufwand,8859.94,9363.6,8859.94,-503.66
+2024-03-01,2024,3,Q1,Service,Süd,Personalaufwand,Aufwand,33879.66,32460.48,33879.66,1419.18
+2024-03-01,2024,3,Q1,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5901.65,5618.16,5901.65,283.49
+2024-03-01,2024,3,Q1,Service,Süd,Umsatzerlöse,Erlös,62710.11,62424.0,62710.11,286.11
+2024-03-01,2024,3,Q1,Service,West,Materialaufwand,Aufwand,7091.75,7160.4,7091.75,-68.65
+2024-03-01,2024,3,Q1,Service,West,Personalaufwand,Aufwand,24683.83,24822.72,24683.83,-138.89
+2024-03-01,2024,3,Q1,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4149.61,4296.24,4149.61,-146.63
+2024-03-01,2024,3,Q1,Service,West,Umsatzerlöse,Erlös,47626.06,47736.0,47626.06,-109.94
+2024-04-01,2024,4,Q2,Handel,Nord,Materialaufwand,Aufwand,42783.22,42284.0,42783.22,499.22
+2024-04-01,2024,4,Q2,Handel,Nord,Personalaufwand,Aufwand,10018.28,9548.0,10018.28,470.28
+2024-04-01,2024,4,Q2,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,5825.63,6138.0,5825.63,-312.37
+2024-04-01,2024,4,Q2,Handel,Nord,Umsatzerlöse,Erlös,65683.88,68200.0,65683.88,-2516.12
+2024-04-01,2024,4,Q2,Handel,Ost,Materialaufwand,Aufwand,34422.96,34596.0,34422.96,-173.04
+2024-04-01,2024,4,Q2,Handel,Ost,Personalaufwand,Aufwand,7508.98,7812.0,7508.98,-303.02
+2024-04-01,2024,4,Q2,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,4808.25,5022.0,4808.25,-213.75
+2024-04-01,2024,4,Q2,Handel,Ost,Umsatzerlöse,Erlös,54746.75,55800.0,54746.75,-1053.25
+2024-04-01,2024,4,Q2,Handel,Süd,Materialaufwand,Aufwand,63902.38,65348.0,63902.38,-1445.62
+2024-04-01,2024,4,Q2,Handel,Süd,Personalaufwand,Aufwand,13846.5,14756.0,13846.5,-909.5
+2024-04-01,2024,4,Q2,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,9730.0,9486.0,9730.0,244.0
+2024-04-01,2024,4,Q2,Handel,Süd,Umsatzerlöse,Erlös,104630.76,105400.0,104630.76,-769.24
+2024-04-01,2024,4,Q2,Handel,West,Materialaufwand,Aufwand,50096.95,49972.0,50096.95,124.95
+2024-04-01,2024,4,Q2,Handel,West,Personalaufwand,Aufwand,10986.88,11284.0,10986.88,-297.12
+2024-04-01,2024,4,Q2,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,7369.47,7254.0,7369.47,115.47
+2024-04-01,2024,4,Q2,Handel,West,Umsatzerlöse,Erlös,80533.86,80600.0,80533.86,-66.14
+2024-04-01,2024,4,Q2,Industrie,Nord,Materialaufwand,Aufwand,42368.56,44352.0,42368.56,-1983.44
+2024-04-01,2024,4,Q2,Industrie,Nord,Personalaufwand,Aufwand,21222.38,20328.0,21222.38,894.38
+2024-04-01,2024,4,Q2,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8271.15,8316.0,8271.15,-44.85
+2024-04-01,2024,4,Q2,Industrie,Nord,Umsatzerlöse,Erlös,90375.28,92400.0,90375.28,-2024.72
+2024-04-01,2024,4,Q2,Industrie,Ost,Materialaufwand,Aufwand,35263.24,36288.0,35263.24,-1024.76
+2024-04-01,2024,4,Q2,Industrie,Ost,Personalaufwand,Aufwand,17594.86,16632.0,17594.86,962.86
+2024-04-01,2024,4,Q2,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6644.15,6804.0,6644.15,-159.85
+2024-04-01,2024,4,Q2,Industrie,Ost,Umsatzerlöse,Erlös,71952.29,75600.0,71952.29,-3647.71
+2024-04-01,2024,4,Q2,Industrie,Süd,Materialaufwand,Aufwand,68575.97,68544.0,68575.97,31.97
+2024-04-01,2024,4,Q2,Industrie,Süd,Personalaufwand,Aufwand,30652.46,31416.0,30652.46,-763.54
+2024-04-01,2024,4,Q2,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,12705.05,12852.0,12705.05,-146.95
+2024-04-01,2024,4,Q2,Industrie,Süd,Umsatzerlöse,Erlös,147627.68,142800.0,147627.68,4827.68
+2024-04-01,2024,4,Q2,Industrie,West,Materialaufwand,Aufwand,52430.6,52416.0,52430.6,14.6
+2024-04-01,2024,4,Q2,Industrie,West,Personalaufwand,Aufwand,23708.46,24024.0,23708.46,-315.54
+2024-04-01,2024,4,Q2,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,9724.83,9828.0,9724.83,-103.17
+2024-04-01,2024,4,Q2,Industrie,West,Umsatzerlöse,Erlös,107058.8,109200.0,107058.8,-2141.2
+2024-04-01,2024,4,Q2,Service,Nord,Materialaufwand,Aufwand,5834.57,5940.0,5834.57,-105.43
+2024-04-01,2024,4,Q2,Service,Nord,Personalaufwand,Aufwand,20802.22,20592.0,20802.22,210.22
+2024-04-01,2024,4,Q2,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3559.78,3564.0,3559.78,-4.22
+2024-04-01,2024,4,Q2,Service,Nord,Umsatzerlöse,Erlös,41451.05,39600.0,41451.05,1851.05
+2024-04-01,2024,4,Q2,Service,Ost,Materialaufwand,Aufwand,4764.14,4860.0,4764.14,-95.86
+2024-04-01,2024,4,Q2,Service,Ost,Personalaufwand,Aufwand,16033.08,16848.0,16033.08,-814.92
+2024-04-01,2024,4,Q2,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,3012.91,2916.0,3012.91,96.91
+2024-04-01,2024,4,Q2,Service,Ost,Umsatzerlöse,Erlös,32833.87,32400.0,32833.87,433.87
+2024-04-01,2024,4,Q2,Service,Süd,Materialaufwand,Aufwand,9016.79,9180.0,9016.79,-163.21
+2024-04-01,2024,4,Q2,Service,Süd,Personalaufwand,Aufwand,32525.81,31824.0,32525.81,701.81
+2024-04-01,2024,4,Q2,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5449.81,5508.0,5449.81,-58.19
+2024-04-01,2024,4,Q2,Service,Süd,Umsatzerlöse,Erlös,60255.07,61200.0,60255.07,-944.93
+2024-04-01,2024,4,Q2,Service,West,Materialaufwand,Aufwand,7025.46,7020.0,7025.46,5.46
+2024-04-01,2024,4,Q2,Service,West,Personalaufwand,Aufwand,25338.1,24336.0,25338.1,1002.1
+2024-04-01,2024,4,Q2,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4312.32,4212.0,4312.32,100.32
+2024-04-01,2024,4,Q2,Service,West,Umsatzerlöse,Erlös,46551.94,46800.0,46551.94,-248.06
+2024-05-01,2024,5,Q2,Handel,Nord,Materialaufwand,Aufwand,42005.3,43552.52,42005.3,-1547.22
+2024-05-01,2024,5,Q2,Handel,Nord,Personalaufwand,Aufwand,9830.17,9834.44,9830.17,-4.27
+2024-05-01,2024,5,Q2,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6507.95,6322.14,6507.95,185.81
+2024-05-01,2024,5,Q2,Handel,Nord,Umsatzerlöse,Erlös,72254.41,70246.0,72254.41,2008.41
+2024-05-01,2024,5,Q2,Handel,Ost,Materialaufwand,Aufwand,34421.98,35633.88,34421.98,-1211.9
+2024-05-01,2024,5,Q2,Handel,Ost,Personalaufwand,Aufwand,7583.52,8046.36,7583.52,-462.84
+2024-05-01,2024,5,Q2,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5264.21,5172.66,5264.21,91.55
+2024-05-01,2024,5,Q2,Handel,Ost,Umsatzerlöse,Erlös,57138.76,57474.0,57138.76,-335.24
+2024-05-01,2024,5,Q2,Handel,Süd,Materialaufwand,Aufwand,62337.76,67308.44,62337.76,-4970.68
+2024-05-01,2024,5,Q2,Handel,Süd,Personalaufwand,Aufwand,15336.62,15198.68,15336.62,137.94
+2024-05-01,2024,5,Q2,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,9785.76,9770.58,9785.76,15.18
+2024-05-01,2024,5,Q2,Handel,Süd,Umsatzerlöse,Erlös,102316.11,108562.0,102316.11,-6245.89
+2024-05-01,2024,5,Q2,Handel,West,Materialaufwand,Aufwand,51540.58,51471.16,51540.58,69.42
+2024-05-01,2024,5,Q2,Handel,West,Personalaufwand,Aufwand,11272.47,11622.52,11272.47,-350.05
+2024-05-01,2024,5,Q2,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,7075.83,7471.62,7075.83,-395.79
+2024-05-01,2024,5,Q2,Handel,West,Umsatzerlöse,Erlös,82303.79,83018.0,82303.79,-714.21
+2024-05-01,2024,5,Q2,Industrie,Nord,Materialaufwand,Aufwand,45457.58,45682.56,45457.58,-224.98
+2024-05-01,2024,5,Q2,Industrie,Nord,Personalaufwand,Aufwand,21334.95,20937.84,21334.95,397.11
+2024-05-01,2024,5,Q2,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8799.75,8565.48,8799.75,234.27
+2024-05-01,2024,5,Q2,Industrie,Nord,Umsatzerlöse,Erlös,98391.25,95172.0,98391.25,3219.25
+2024-05-01,2024,5,Q2,Industrie,Ost,Materialaufwand,Aufwand,39318.57,37376.64,39318.57,1941.93
+2024-05-01,2024,5,Q2,Industrie,Ost,Personalaufwand,Aufwand,16444.33,17130.96,16444.33,-686.63
+2024-05-01,2024,5,Q2,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6593.92,7008.12,6593.92,-414.2
+2024-05-01,2024,5,Q2,Industrie,Ost,Umsatzerlöse,Erlös,82989.01,77868.0,82989.01,5121.01
+2024-05-01,2024,5,Q2,Industrie,Süd,Materialaufwand,Aufwand,72877.07,70600.32,72877.07,2276.75
+2024-05-01,2024,5,Q2,Industrie,Süd,Personalaufwand,Aufwand,31842.47,32358.48,31842.47,-516.01
+2024-05-01,2024,5,Q2,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,13939.47,13237.56,13939.47,701.91
+2024-05-01,2024,5,Q2,Industrie,Süd,Umsatzerlöse,Erlös,151362.89,147084.0,151362.89,4278.89
+2024-05-01,2024,5,Q2,Industrie,West,Materialaufwand,Aufwand,55616.79,53988.48,55616.79,1628.31
+2024-05-01,2024,5,Q2,Industrie,West,Personalaufwand,Aufwand,25172.5,24744.72,25172.5,427.78
+2024-05-01,2024,5,Q2,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,10432.36,10122.84,10432.36,309.52
+2024-05-01,2024,5,Q2,Industrie,West,Umsatzerlöse,Erlös,107568.59,112476.0,107568.59,-4907.41
+2024-05-01,2024,5,Q2,Service,Nord,Materialaufwand,Aufwand,6205.25,6118.2,6205.25,87.05
+2024-05-01,2024,5,Q2,Service,Nord,Personalaufwand,Aufwand,20475.37,21209.76,20475.37,-734.39
+2024-05-01,2024,5,Q2,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3586.37,3670.92,3586.37,-84.55
+2024-05-01,2024,5,Q2,Service,Nord,Umsatzerlöse,Erlös,40700.35,40788.0,40700.35,-87.65
+2024-05-01,2024,5,Q2,Service,Ost,Materialaufwand,Aufwand,4990.12,5005.8,4990.12,-15.68
+2024-05-01,2024,5,Q2,Service,Ost,Personalaufwand,Aufwand,17344.92,17353.44,17344.92,-8.52
+2024-05-01,2024,5,Q2,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2851.07,3003.48,2851.07,-152.41
+2024-05-01,2024,5,Q2,Service,Ost,Umsatzerlöse,Erlös,34409.09,33372.0,34409.09,1037.09
+2024-05-01,2024,5,Q2,Service,Süd,Materialaufwand,Aufwand,9161.98,9455.4,9161.98,-293.42
+2024-05-01,2024,5,Q2,Service,Süd,Personalaufwand,Aufwand,33002.9,32778.72,33002.9,224.18
+2024-05-01,2024,5,Q2,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5517.77,5673.24,5517.77,-155.47
+2024-05-01,2024,5,Q2,Service,Süd,Umsatzerlöse,Erlös,60831.85,63036.0,60831.85,-2204.15
+2024-05-01,2024,5,Q2,Service,West,Materialaufwand,Aufwand,7316.58,7230.6,7316.58,85.98
+2024-05-01,2024,5,Q2,Service,West,Personalaufwand,Aufwand,26842.78,25066.08,26842.78,1776.7
+2024-05-01,2024,5,Q2,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4126.88,4338.36,4126.88,-211.48
+2024-05-01,2024,5,Q2,Service,West,Umsatzerlöse,Erlös,48804.73,48204.0,48804.73,600.73
+2024-06-01,2024,6,Q2,Handel,Nord,Materialaufwand,Aufwand,41666.93,41438.32,41666.93,228.61
+2024-06-01,2024,6,Q2,Handel,Nord,Personalaufwand,Aufwand,9372.76,9357.04,9372.76,15.72
+2024-06-01,2024,6,Q2,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6003.98,6015.24,6003.98,-11.26
+2024-06-01,2024,6,Q2,Handel,Nord,Umsatzerlöse,Erlös,69480.8,66836.0,69480.8,2644.8
+2024-06-01,2024,6,Q2,Handel,Ost,Materialaufwand,Aufwand,33740.77,33904.08,33740.77,-163.31
+2024-06-01,2024,6,Q2,Handel,Ost,Personalaufwand,Aufwand,7653.79,7655.76,7653.79,-1.97
+2024-06-01,2024,6,Q2,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,4693.38,4921.56,4693.38,-228.18
+2024-06-01,2024,6,Q2,Handel,Ost,Umsatzerlöse,Erlös,52251.28,54684.0,52251.28,-2432.72
+2024-06-01,2024,6,Q2,Handel,Süd,Materialaufwand,Aufwand,65846.31,64041.04,65846.31,1805.27
+2024-06-01,2024,6,Q2,Handel,Süd,Personalaufwand,Aufwand,14740.55,14460.88,14740.55,279.67
+2024-06-01,2024,6,Q2,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,9366.46,9296.28,9366.46,70.18
+2024-06-01,2024,6,Q2,Handel,Süd,Umsatzerlöse,Erlös,103430.83,103292.0,103430.83,138.83
+2024-06-01,2024,6,Q2,Handel,West,Materialaufwand,Aufwand,49848.62,48972.56,49848.62,876.06
+2024-06-01,2024,6,Q2,Handel,West,Personalaufwand,Aufwand,10793.49,11058.32,10793.49,-264.83
+2024-06-01,2024,6,Q2,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,7381.08,7108.92,7381.08,272.16
+2024-06-01,2024,6,Q2,Handel,West,Umsatzerlöse,Erlös,76104.91,78988.0,76104.91,-2883.09
+2024-06-01,2024,6,Q2,Industrie,Nord,Materialaufwand,Aufwand,44595.57,43464.96,44595.57,1130.61
+2024-06-01,2024,6,Q2,Industrie,Nord,Personalaufwand,Aufwand,19863.93,19921.44,19863.93,-57.51
+2024-06-01,2024,6,Q2,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8172.8,8149.68,8172.8,23.12
+2024-06-01,2024,6,Q2,Industrie,Nord,Umsatzerlöse,Erlös,89093.5,90552.0,89093.5,-1458.5
+2024-06-01,2024,6,Q2,Industrie,Ost,Materialaufwand,Aufwand,35620.89,35562.24,35620.89,58.65
+2024-06-01,2024,6,Q2,Industrie,Ost,Personalaufwand,Aufwand,15630.45,16299.36,15630.45,-668.91
+2024-06-01,2024,6,Q2,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6448.38,6667.92,6448.38,-219.54
+2024-06-01,2024,6,Q2,Industrie,Ost,Umsatzerlöse,Erlös,77546.03,74088.0,77546.03,3458.03
+2024-06-01,2024,6,Q2,Industrie,Süd,Materialaufwand,Aufwand,69887.58,67173.12,69887.58,2714.46
+2024-06-01,2024,6,Q2,Industrie,Süd,Personalaufwand,Aufwand,30764.54,30787.68,30764.54,-23.14
+2024-06-01,2024,6,Q2,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,11624.96,12594.96,11624.96,-970.0
+2024-06-01,2024,6,Q2,Industrie,Süd,Umsatzerlöse,Erlös,138520.06,139944.0,138520.06,-1423.94
+2024-06-01,2024,6,Q2,Industrie,West,Materialaufwand,Aufwand,47828.04,51367.68,47828.04,-3539.64
+2024-06-01,2024,6,Q2,Industrie,West,Personalaufwand,Aufwand,20864.26,23543.52,20864.26,-2679.26
+2024-06-01,2024,6,Q2,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,9452.74,9631.44,9452.74,-178.7
+2024-06-01,2024,6,Q2,Industrie,West,Umsatzerlöse,Erlös,104423.8,107016.0,104423.8,-2592.2
+2024-06-01,2024,6,Q2,Service,Nord,Materialaufwand,Aufwand,6118.75,5821.2,6118.75,297.55
+2024-06-01,2024,6,Q2,Service,Nord,Personalaufwand,Aufwand,19852.73,20180.16,19852.73,-327.43
+2024-06-01,2024,6,Q2,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3587.06,3492.72,3587.06,94.34
+2024-06-01,2024,6,Q2,Service,Nord,Umsatzerlöse,Erlös,41146.92,38808.0,41146.92,2338.92
+2024-06-01,2024,6,Q2,Service,Ost,Materialaufwand,Aufwand,4818.55,4762.8,4818.55,55.75
+2024-06-01,2024,6,Q2,Service,Ost,Personalaufwand,Aufwand,16507.83,16511.04,16507.83,-3.21
+2024-06-01,2024,6,Q2,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,3010.61,2857.68,3010.61,152.93
+2024-06-01,2024,6,Q2,Service,Ost,Umsatzerlöse,Erlös,33072.35,31752.0,33072.35,1320.35
+2024-06-01,2024,6,Q2,Service,Süd,Materialaufwand,Aufwand,8173.46,8996.4,8173.46,-822.94
+2024-06-01,2024,6,Q2,Service,Süd,Personalaufwand,Aufwand,31460.85,31187.52,31460.85,273.33
+2024-06-01,2024,6,Q2,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5386.25,5397.84,5386.25,-11.59
+2024-06-01,2024,6,Q2,Service,Süd,Umsatzerlöse,Erlös,60770.9,59976.0,60770.9,794.9
+2024-06-01,2024,6,Q2,Service,West,Materialaufwand,Aufwand,6620.3,6879.6,6620.3,-259.3
+2024-06-01,2024,6,Q2,Service,West,Personalaufwand,Aufwand,23624.45,23849.28,23624.45,-224.83
+2024-06-01,2024,6,Q2,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4102.01,4127.76,4102.01,-25.75
+2024-06-01,2024,6,Q2,Service,West,Umsatzerlöse,Erlös,45997.58,45864.0,45997.58,133.58
+2024-07-01,2024,7,Q3,Handel,Nord,Materialaufwand,Aufwand,41083.43,38901.28,41083.43,2182.15
+2024-07-01,2024,7,Q3,Handel,Nord,Personalaufwand,Aufwand,8939.94,8784.16,8939.94,155.78
+2024-07-01,2024,7,Q3,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,5660.31,5646.96,5660.31,13.35
+2024-07-01,2024,7,Q3,Handel,Nord,Umsatzerlöse,Erlös,61349.52,62744.0,61349.52,-1394.48
+2024-07-01,2024,7,Q3,Handel,Ost,Materialaufwand,Aufwand,31566.09,31828.32,31566.09,-262.23
+2024-07-01,2024,7,Q3,Handel,Ost,Personalaufwand,Aufwand,6972.12,7187.04,6972.12,-214.92
+2024-07-01,2024,7,Q3,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,4763.28,4620.24,4763.28,143.04
+2024-07-01,2024,7,Q3,Handel,Ost,Umsatzerlöse,Erlös,48473.74,51336.0,48473.74,-2862.26
+2024-07-01,2024,7,Q3,Handel,Süd,Materialaufwand,Aufwand,57786.48,60120.16,57786.48,-2333.68
+2024-07-01,2024,7,Q3,Handel,Süd,Personalaufwand,Aufwand,13543.75,13575.52,13543.75,-31.77
+2024-07-01,2024,7,Q3,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,8993.98,8727.12,8993.98,266.86
+2024-07-01,2024,7,Q3,Handel,Süd,Umsatzerlöse,Erlös,95793.1,96968.0,95793.1,-1174.9
+2024-07-01,2024,7,Q3,Handel,West,Materialaufwand,Aufwand,45608.58,45974.24,45608.58,-365.66
+2024-07-01,2024,7,Q3,Handel,West,Personalaufwand,Aufwand,10300.97,10381.28,10300.97,-80.31
+2024-07-01,2024,7,Q3,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,6699.28,6673.68,6699.28,25.6
+2024-07-01,2024,7,Q3,Handel,West,Umsatzerlöse,Erlös,73133.24,74152.0,73133.24,-1018.76
+2024-07-01,2024,7,Q3,Industrie,Nord,Materialaufwand,Aufwand,40247.68,40803.84,40247.68,-556.16
+2024-07-01,2024,7,Q3,Industrie,Nord,Personalaufwand,Aufwand,17512.58,18701.76,17512.58,-1189.18
+2024-07-01,2024,7,Q3,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8070.89,7650.72,8070.89,420.17
+2024-07-01,2024,7,Q3,Industrie,Nord,Umsatzerlöse,Erlös,83355.98,85008.0,83355.98,-1652.02
+2024-07-01,2024,7,Q3,Industrie,Ost,Materialaufwand,Aufwand,34034.27,33384.96,34034.27,649.31
+2024-07-01,2024,7,Q3,Industrie,Ost,Personalaufwand,Aufwand,15270.13,15301.44,15270.13,-31.31
+2024-07-01,2024,7,Q3,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6132.74,6259.68,6132.74,-126.94
+2024-07-01,2024,7,Q3,Industrie,Ost,Umsatzerlöse,Erlös,73232.28,69552.0,73232.28,3680.28
+2024-07-01,2024,7,Q3,Industrie,Süd,Materialaufwand,Aufwand,65084.07,63060.48,65084.07,2023.59
+2024-07-01,2024,7,Q3,Industrie,Süd,Personalaufwand,Aufwand,29579.37,28902.72,29579.37,676.65
+2024-07-01,2024,7,Q3,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,11869.42,11823.84,11869.42,45.58
+2024-07-01,2024,7,Q3,Industrie,Süd,Umsatzerlöse,Erlös,135810.15,131376.0,135810.15,4434.15
+2024-07-01,2024,7,Q3,Industrie,West,Materialaufwand,Aufwand,47797.38,48222.72,47797.38,-425.34
+2024-07-01,2024,7,Q3,Industrie,West,Personalaufwand,Aufwand,21944.58,22102.08,21944.58,-157.5
+2024-07-01,2024,7,Q3,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,9058.95,9041.76,9058.95,17.19
+2024-07-01,2024,7,Q3,Industrie,West,Umsatzerlöse,Erlös,101221.71,100464.0,101221.71,757.71
+2024-07-01,2024,7,Q3,Service,Nord,Materialaufwand,Aufwand,5575.17,5464.8,5575.17,110.37
+2024-07-01,2024,7,Q3,Service,Nord,Personalaufwand,Aufwand,19955.44,18944.64,19955.44,1010.8
+2024-07-01,2024,7,Q3,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3242.89,3278.88,3242.89,-35.99
+2024-07-01,2024,7,Q3,Service,Nord,Umsatzerlöse,Erlös,35449.39,36432.0,35449.39,-982.61
+2024-07-01,2024,7,Q3,Service,Ost,Materialaufwand,Aufwand,4521.13,4471.2,4521.13,49.93
+2024-07-01,2024,7,Q3,Service,Ost,Personalaufwand,Aufwand,14823.67,15500.16,14823.67,-676.49
+2024-07-01,2024,7,Q3,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2578.78,2682.72,2578.78,-103.94
+2024-07-01,2024,7,Q3,Service,Ost,Umsatzerlöse,Erlös,28717.84,29808.0,28717.84,-1090.16
+2024-07-01,2024,7,Q3,Service,Süd,Materialaufwand,Aufwand,8502.19,8445.6,8502.19,56.59
+2024-07-01,2024,7,Q3,Service,Süd,Personalaufwand,Aufwand,29276.0,29278.08,29276.0,-2.08
+2024-07-01,2024,7,Q3,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,4891.13,5067.36,4891.13,-176.23
+2024-07-01,2024,7,Q3,Service,Süd,Umsatzerlöse,Erlös,55118.51,56304.0,55118.51,-1185.49
+2024-07-01,2024,7,Q3,Service,West,Materialaufwand,Aufwand,6914.0,6458.4,6914.0,455.6
+2024-07-01,2024,7,Q3,Service,West,Personalaufwand,Aufwand,22186.86,22389.12,22186.86,-202.26
+2024-07-01,2024,7,Q3,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,3847.52,3875.04,3847.52,-27.52
+2024-07-01,2024,7,Q3,Service,West,Umsatzerlöse,Erlös,43750.59,43056.0,43750.59,694.59
+2024-08-01,2024,8,Q3,Handel,Nord,Materialaufwand,Aufwand,36942.53,37209.92,36942.53,-267.39
+2024-08-01,2024,8,Q3,Handel,Nord,Personalaufwand,Aufwand,8465.31,8402.24,8465.31,63.07
+2024-08-01,2024,8,Q3,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,5457.54,5401.44,5457.54,56.1
+2024-08-01,2024,8,Q3,Handel,Nord,Umsatzerlöse,Erlös,60629.93,60016.0,60629.93,613.93
+2024-08-01,2024,8,Q3,Handel,Ost,Materialaufwand,Aufwand,30857.87,30444.48,30857.87,413.39
+2024-08-01,2024,8,Q3,Handel,Ost,Personalaufwand,Aufwand,6406.17,6874.56,6406.17,-468.39
+2024-08-01,2024,8,Q3,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,4201.41,4419.36,4201.41,-217.95
+2024-08-01,2024,8,Q3,Handel,Ost,Umsatzerlöse,Erlös,46206.17,49104.0,46206.17,-2897.83
+2024-08-01,2024,8,Q3,Handel,Süd,Materialaufwand,Aufwand,57425.38,57506.24,57425.38,-80.86
+2024-08-01,2024,8,Q3,Handel,Süd,Personalaufwand,Aufwand,13079.17,12985.28,13079.17,93.89
+2024-08-01,2024,8,Q3,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,8323.15,8347.68,8323.15,-24.53
+2024-08-01,2024,8,Q3,Handel,Süd,Umsatzerlöse,Erlös,91782.09,92752.0,91782.09,-969.91
+2024-08-01,2024,8,Q3,Handel,West,Materialaufwand,Aufwand,46854.9,43975.36,46854.9,2879.54
+2024-08-01,2024,8,Q3,Handel,West,Personalaufwand,Aufwand,10135.66,9929.92,10135.66,205.74
+2024-08-01,2024,8,Q3,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,6395.99,6383.52,6395.99,12.47
+2024-08-01,2024,8,Q3,Handel,West,Umsatzerlöse,Erlös,72177.98,70928.0,72177.98,1249.98
+2024-08-01,2024,8,Q3,Industrie,Nord,Materialaufwand,Aufwand,37792.87,39029.76,37792.87,-1236.89
+2024-08-01,2024,8,Q3,Industrie,Nord,Personalaufwand,Aufwand,18565.68,17888.64,18565.68,677.04
+2024-08-01,2024,8,Q3,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,7708.52,7318.08,7708.52,390.44
+2024-08-01,2024,8,Q3,Industrie,Nord,Umsatzerlöse,Erlös,84953.83,81312.0,84953.83,3641.83
+2024-08-01,2024,8,Q3,Industrie,Ost,Materialaufwand,Aufwand,30880.49,31933.44,30880.49,-1052.95
+2024-08-01,2024,8,Q3,Industrie,Ost,Personalaufwand,Aufwand,14197.98,14636.16,14197.98,-438.18
+2024-08-01,2024,8,Q3,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5881.86,5987.52,5881.86,-105.66
+2024-08-01,2024,8,Q3,Industrie,Ost,Umsatzerlöse,Erlös,68762.4,66528.0,68762.4,2234.4
+2024-08-01,2024,8,Q3,Industrie,Süd,Materialaufwand,Aufwand,61487.02,60318.72,61487.02,1168.3
+2024-08-01,2024,8,Q3,Industrie,Süd,Personalaufwand,Aufwand,29535.1,27646.08,29535.1,1889.02
+2024-08-01,2024,8,Q3,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,11231.89,11309.76,11231.89,-77.87
+2024-08-01,2024,8,Q3,Industrie,Süd,Umsatzerlöse,Erlös,126804.58,125664.0,126804.58,1140.58
+2024-08-01,2024,8,Q3,Industrie,West,Materialaufwand,Aufwand,43941.41,46126.08,43941.41,-2184.67
+2024-08-01,2024,8,Q3,Industrie,West,Personalaufwand,Aufwand,21171.98,21141.12,21171.98,30.86
+2024-08-01,2024,8,Q3,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,9096.38,8648.64,9096.38,447.74
+2024-08-01,2024,8,Q3,Industrie,West,Umsatzerlöse,Erlös,94101.51,96096.0,94101.51,-1994.49
+2024-08-01,2024,8,Q3,Service,Nord,Materialaufwand,Aufwand,5356.41,5227.2,5356.41,129.21
+2024-08-01,2024,8,Q3,Service,Nord,Personalaufwand,Aufwand,18025.86,18120.96,18025.86,-95.1
+2024-08-01,2024,8,Q3,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,2948.61,3136.32,2948.61,-187.71
+2024-08-01,2024,8,Q3,Service,Nord,Umsatzerlöse,Erlös,35890.39,34848.0,35890.39,1042.39
+2024-08-01,2024,8,Q3,Service,Ost,Materialaufwand,Aufwand,4104.43,4276.8,4104.43,-172.37
+2024-08-01,2024,8,Q3,Service,Ost,Personalaufwand,Aufwand,14886.62,14826.24,14886.62,60.38
+2024-08-01,2024,8,Q3,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2462.71,2566.08,2462.71,-103.37
+2024-08-01,2024,8,Q3,Service,Ost,Umsatzerlöse,Erlös,28335.57,28512.0,28335.57,-176.43
+2024-08-01,2024,8,Q3,Service,Süd,Materialaufwand,Aufwand,7886.49,8078.4,7886.49,-191.91
+2024-08-01,2024,8,Q3,Service,Süd,Personalaufwand,Aufwand,28629.34,28005.12,28629.34,624.22
+2024-08-01,2024,8,Q3,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5230.06,4847.04,5230.06,383.02
+2024-08-01,2024,8,Q3,Service,Süd,Umsatzerlöse,Erlös,53156.02,53856.0,53156.02,-699.98
+2024-08-01,2024,8,Q3,Service,West,Materialaufwand,Aufwand,6009.1,6177.6,6009.1,-168.5
+2024-08-01,2024,8,Q3,Service,West,Personalaufwand,Aufwand,20538.29,21415.68,20538.29,-877.39
+2024-08-01,2024,8,Q3,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,3699.28,3706.56,3699.28,-7.28
+2024-08-01,2024,8,Q3,Service,West,Umsatzerlöse,Erlös,41496.69,41184.0,41496.69,312.69
+2024-09-01,2024,9,Q3,Handel,Nord,Materialaufwand,Aufwand,45007.49,44398.2,45007.49,609.29
+2024-09-01,2024,9,Q3,Handel,Nord,Personalaufwand,Aufwand,9893.09,10025.4,9893.09,-132.31
+2024-09-01,2024,9,Q3,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6677.05,6444.9,6677.05,232.15
+2024-09-01,2024,9,Q3,Handel,Nord,Umsatzerlöse,Erlös,72049.45,71610.0,72049.45,439.45
+2024-09-01,2024,9,Q3,Handel,Ost,Materialaufwand,Aufwand,35837.96,36325.8,35837.96,-487.84
+2024-09-01,2024,9,Q3,Handel,Ost,Personalaufwand,Aufwand,8117.71,8202.6,8117.71,-84.89
+2024-09-01,2024,9,Q3,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5065.2,5273.1,5065.2,-207.9
+2024-09-01,2024,9,Q3,Handel,Ost,Umsatzerlöse,Erlös,61344.73,58590.0,61344.73,2754.73
+2024-09-01,2024,9,Q3,Handel,Süd,Materialaufwand,Aufwand,65701.42,68615.4,65701.42,-2913.98
+2024-09-01,2024,9,Q3,Handel,Süd,Personalaufwand,Aufwand,14989.06,15493.8,14989.06,-504.74
+2024-09-01,2024,9,Q3,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,10241.1,9960.3,10241.1,280.8
+2024-09-01,2024,9,Q3,Handel,Süd,Umsatzerlöse,Erlös,111484.95,110670.0,111484.95,814.95
+2024-09-01,2024,9,Q3,Handel,West,Materialaufwand,Aufwand,48983.03,52470.6,48983.03,-3487.57
+2024-09-01,2024,9,Q3,Handel,West,Personalaufwand,Aufwand,12407.08,11848.2,12407.08,558.88
+2024-09-01,2024,9,Q3,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,7776.12,7616.7,7776.12,159.42
+2024-09-01,2024,9,Q3,Handel,West,Umsatzerlöse,Erlös,86003.89,84630.0,86003.89,1373.89
+2024-09-01,2024,9,Q3,Industrie,Nord,Materialaufwand,Aufwand,48301.65,46569.6,48301.65,1732.05
+2024-09-01,2024,9,Q3,Industrie,Nord,Personalaufwand,Aufwand,22154.77,21344.4,22154.77,810.37
+2024-09-01,2024,9,Q3,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8586.92,8731.8,8586.92,-144.88
+2024-09-01,2024,9,Q3,Industrie,Nord,Umsatzerlöse,Erlös,100796.38,97020.0,100796.38,3776.38
+2024-09-01,2024,9,Q3,Industrie,Ost,Materialaufwand,Aufwand,39438.26,38102.4,39438.26,1335.86
+2024-09-01,2024,9,Q3,Industrie,Ost,Personalaufwand,Aufwand,16404.26,17463.6,16404.26,-1059.34
+2024-09-01,2024,9,Q3,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6948.13,7144.2,6948.13,-196.07
+2024-09-01,2024,9,Q3,Industrie,Ost,Umsatzerlöse,Erlös,79981.29,79380.0,79981.29,601.29
+2024-09-01,2024,9,Q3,Industrie,Süd,Materialaufwand,Aufwand,71638.52,71971.2,71638.52,-332.68
+2024-09-01,2024,9,Q3,Industrie,Süd,Personalaufwand,Aufwand,32537.9,32986.8,32537.9,-448.9
+2024-09-01,2024,9,Q3,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,13334.42,13494.6,13334.42,-160.18
+2024-09-01,2024,9,Q3,Industrie,Süd,Umsatzerlöse,Erlös,152640.15,149940.0,152640.15,2700.15
+2024-09-01,2024,9,Q3,Industrie,West,Materialaufwand,Aufwand,52255.5,55036.8,52255.5,-2781.3
+2024-09-01,2024,9,Q3,Industrie,West,Personalaufwand,Aufwand,25926.49,25225.2,25926.49,701.29
+2024-09-01,2024,9,Q3,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,10250.33,10319.4,10250.33,-69.07
+2024-09-01,2024,9,Q3,Industrie,West,Umsatzerlöse,Erlös,109444.11,114660.0,109444.11,-5215.89
+2024-09-01,2024,9,Q3,Service,Nord,Materialaufwand,Aufwand,6198.7,6237.0,6198.7,-38.3
+2024-09-01,2024,9,Q3,Service,Nord,Personalaufwand,Aufwand,22822.98,21621.6,22822.98,1201.38
+2024-09-01,2024,9,Q3,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3657.42,3742.2,3657.42,-84.78
+2024-09-01,2024,9,Q3,Service,Nord,Umsatzerlöse,Erlös,45271.99,41580.0,45271.99,3691.99
+2024-09-01,2024,9,Q3,Service,Ost,Materialaufwand,Aufwand,5021.01,5103.0,5021.01,-81.99
+2024-09-01,2024,9,Q3,Service,Ost,Personalaufwand,Aufwand,17659.74,17690.4,17659.74,-30.66
+2024-09-01,2024,9,Q3,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,3004.35,3061.8,3004.35,-57.45
+2024-09-01,2024,9,Q3,Service,Ost,Umsatzerlöse,Erlös,33422.75,34020.0,33422.75,-597.25
+2024-09-01,2024,9,Q3,Service,Süd,Materialaufwand,Aufwand,9075.14,9639.0,9075.14,-563.86
+2024-09-01,2024,9,Q3,Service,Süd,Personalaufwand,Aufwand,32967.42,33415.2,32967.42,-447.78
+2024-09-01,2024,9,Q3,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5982.53,5783.4,5982.53,199.13
+2024-09-01,2024,9,Q3,Service,Süd,Umsatzerlöse,Erlös,64628.5,64260.0,64628.5,368.5
+2024-09-01,2024,9,Q3,Service,West,Materialaufwand,Aufwand,7647.62,7371.0,7647.62,276.62
+2024-09-01,2024,9,Q3,Service,West,Personalaufwand,Aufwand,25854.41,25552.8,25854.41,301.61
+2024-09-01,2024,9,Q3,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4261.01,4422.6,4261.01,-161.59
+2024-09-01,2024,9,Q3,Service,West,Umsatzerlöse,Erlös,46987.13,49140.0,46987.13,-2152.87
+2024-10-01,2024,10,Q4,Handel,Nord,Materialaufwand,Aufwand,47469.1,46512.4,47469.1,956.7
+2024-10-01,2024,10,Q4,Handel,Nord,Personalaufwand,Aufwand,10445.83,10502.8,10445.83,-56.97
+2024-10-01,2024,10,Q4,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6894.35,6751.8,6894.35,142.55
+2024-10-01,2024,10,Q4,Handel,Nord,Umsatzerlöse,Erlös,73040.16,75020.0,73040.16,-1979.84
+2024-10-01,2024,10,Q4,Handel,Ost,Materialaufwand,Aufwand,36615.12,38055.6,36615.12,-1440.48
+2024-10-01,2024,10,Q4,Handel,Ost,Personalaufwand,Aufwand,8049.92,8593.2,8049.92,-543.28
+2024-10-01,2024,10,Q4,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5512.75,5524.2,5512.75,-11.45
+2024-10-01,2024,10,Q4,Handel,Ost,Umsatzerlöse,Erlös,62779.6,61380.0,62779.6,1399.6
+2024-10-01,2024,10,Q4,Handel,Süd,Materialaufwand,Aufwand,69151.0,71882.8,69151.0,-2731.8
+2024-10-01,2024,10,Q4,Handel,Süd,Personalaufwand,Aufwand,16173.61,16231.6,16173.61,-57.99
+2024-10-01,2024,10,Q4,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,10453.57,10434.6,10453.57,18.97
+2024-10-01,2024,10,Q4,Handel,Süd,Umsatzerlöse,Erlös,115748.1,115940.0,115748.1,-191.9
+2024-10-01,2024,10,Q4,Handel,West,Materialaufwand,Aufwand,53225.61,54969.2,53225.61,-1743.59
+2024-10-01,2024,10,Q4,Handel,West,Personalaufwand,Aufwand,12395.31,12412.4,12395.31,-17.09
+2024-10-01,2024,10,Q4,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,7498.52,7979.4,7498.52,-480.88
+2024-10-01,2024,10,Q4,Handel,West,Umsatzerlöse,Erlös,91634.21,88660.0,91634.21,2974.21
+2024-10-01,2024,10,Q4,Industrie,Nord,Materialaufwand,Aufwand,48267.1,48787.2,48267.1,-520.1
+2024-10-01,2024,10,Q4,Industrie,Nord,Personalaufwand,Aufwand,21557.13,22360.8,21557.13,-803.67
+2024-10-01,2024,10,Q4,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8734.74,9147.6,8734.74,-412.86
+2024-10-01,2024,10,Q4,Industrie,Nord,Umsatzerlöse,Erlös,98697.01,101640.0,98697.01,-2942.99
+2024-10-01,2024,10,Q4,Industrie,Ost,Materialaufwand,Aufwand,38827.3,39916.8,38827.3,-1089.5
+2024-10-01,2024,10,Q4,Industrie,Ost,Personalaufwand,Aufwand,18542.69,18295.2,18542.69,247.49
+2024-10-01,2024,10,Q4,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,7424.86,7484.4,7424.86,-59.54
+2024-10-01,2024,10,Q4,Industrie,Ost,Umsatzerlöse,Erlös,87520.96,83160.0,87520.96,4360.96
+2024-10-01,2024,10,Q4,Industrie,Süd,Materialaufwand,Aufwand,77728.26,75398.4,77728.26,2329.86
+2024-10-01,2024,10,Q4,Industrie,Süd,Personalaufwand,Aufwand,32707.8,34557.6,32707.8,-1849.8
+2024-10-01,2024,10,Q4,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,14138.94,14137.2,14138.94,1.74
+2024-10-01,2024,10,Q4,Industrie,Süd,Umsatzerlöse,Erlös,156815.14,157080.0,156815.14,-264.86
+2024-10-01,2024,10,Q4,Industrie,West,Materialaufwand,Aufwand,55685.7,57657.6,55685.7,-1971.9
+2024-10-01,2024,10,Q4,Industrie,West,Personalaufwand,Aufwand,27215.76,26426.4,27215.76,789.36
+2024-10-01,2024,10,Q4,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,10614.74,10810.8,10614.74,-196.06
+2024-10-01,2024,10,Q4,Industrie,West,Umsatzerlöse,Erlös,117387.45,120120.0,117387.45,-2732.55
+2024-10-01,2024,10,Q4,Service,Nord,Materialaufwand,Aufwand,6185.37,6534.0,6185.37,-348.63
+2024-10-01,2024,10,Q4,Service,Nord,Personalaufwand,Aufwand,21788.61,22651.2,21788.61,-862.59
+2024-10-01,2024,10,Q4,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3818.41,3920.4,3818.41,-101.99
+2024-10-01,2024,10,Q4,Service,Nord,Umsatzerlöse,Erlös,45245.73,43560.0,45245.73,1685.73
+2024-10-01,2024,10,Q4,Service,Ost,Materialaufwand,Aufwand,5002.57,5346.0,5002.57,-343.43
+2024-10-01,2024,10,Q4,Service,Ost,Personalaufwand,Aufwand,19740.07,18532.8,19740.07,1207.27
+2024-10-01,2024,10,Q4,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,3171.65,3207.6,3171.65,-35.95
+2024-10-01,2024,10,Q4,Service,Ost,Umsatzerlöse,Erlös,34127.98,35640.0,34127.98,-1512.02
+2024-10-01,2024,10,Q4,Service,Süd,Materialaufwand,Aufwand,10232.1,10098.0,10232.1,134.1
+2024-10-01,2024,10,Q4,Service,Süd,Personalaufwand,Aufwand,34017.19,35006.4,34017.19,-989.21
+2024-10-01,2024,10,Q4,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5905.8,6058.8,5905.8,-153.0
+2024-10-01,2024,10,Q4,Service,Süd,Umsatzerlöse,Erlös,64658.68,67320.0,64658.68,-2661.32
+2024-10-01,2024,10,Q4,Service,West,Materialaufwand,Aufwand,7517.81,7722.0,7517.81,-204.19
+2024-10-01,2024,10,Q4,Service,West,Personalaufwand,Aufwand,27175.09,26769.6,27175.09,405.49
+2024-10-01,2024,10,Q4,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4475.68,4633.2,4475.68,-157.52
+2024-10-01,2024,10,Q4,Service,West,Umsatzerlöse,Erlös,52531.0,51480.0,52531.0,1051.0
+2024-11-01,2024,11,Q4,Handel,Nord,Materialaufwand,Aufwand,45574.98,47358.08,45574.98,-1783.1
+2024-11-01,2024,11,Q4,Handel,Nord,Personalaufwand,Aufwand,11083.15,10693.76,11083.15,389.39
+2024-11-01,2024,11,Q4,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6615.2,6874.56,6615.2,-259.36
+2024-11-01,2024,11,Q4,Handel,Nord,Umsatzerlöse,Erlös,77791.91,76384.0,77791.91,1407.91
+2024-11-01,2024,11,Q4,Handel,Ost,Materialaufwand,Aufwand,38705.61,38747.52,38705.61,-41.91
+2024-11-01,2024,11,Q4,Handel,Ost,Personalaufwand,Aufwand,8723.7,8749.44,8723.7,-25.74
+2024-11-01,2024,11,Q4,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5606.18,5624.64,5606.18,-18.46
+2024-11-01,2024,11,Q4,Handel,Ost,Umsatzerlöse,Erlös,61634.93,62496.0,61634.93,-861.07
+2024-11-01,2024,11,Q4,Handel,Süd,Materialaufwand,Aufwand,69331.21,73189.76,69331.21,-3858.55
+2024-11-01,2024,11,Q4,Handel,Süd,Personalaufwand,Aufwand,15961.44,16526.72,15961.44,-565.28
+2024-11-01,2024,11,Q4,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,11139.65,10624.32,11139.65,515.33
+2024-11-01,2024,11,Q4,Handel,Süd,Umsatzerlöse,Erlös,116868.75,118048.0,116868.75,-1179.25
+2024-11-01,2024,11,Q4,Handel,West,Materialaufwand,Aufwand,55181.81,55968.64,55181.81,-786.83
+2024-11-01,2024,11,Q4,Handel,West,Personalaufwand,Aufwand,12253.17,12638.08,12253.17,-384.91
+2024-11-01,2024,11,Q4,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,7585.96,8124.48,7585.96,-538.52
+2024-11-01,2024,11,Q4,Handel,West,Umsatzerlöse,Erlös,92864.63,90272.0,92864.63,2592.63
+2024-11-01,2024,11,Q4,Industrie,Nord,Materialaufwand,Aufwand,49620.26,49674.24,49620.26,-53.98
+2024-11-01,2024,11,Q4,Industrie,Nord,Personalaufwand,Aufwand,22894.83,22767.36,22894.83,127.47
+2024-11-01,2024,11,Q4,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,9330.12,9313.92,9330.12,16.2
+2024-11-01,2024,11,Q4,Industrie,Nord,Umsatzerlöse,Erlös,104371.55,103488.0,104371.55,883.55
+2024-11-01,2024,11,Q4,Industrie,Ost,Materialaufwand,Aufwand,40137.87,40642.56,40137.87,-504.69
+2024-11-01,2024,11,Q4,Industrie,Ost,Personalaufwand,Aufwand,19534.82,18627.84,19534.82,906.98
+2024-11-01,2024,11,Q4,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6868.45,7620.48,6868.45,-752.03
+2024-11-01,2024,11,Q4,Industrie,Ost,Umsatzerlöse,Erlös,80551.42,84672.0,80551.42,-4120.58
+2024-11-01,2024,11,Q4,Industrie,Süd,Materialaufwand,Aufwand,73977.76,76769.28,73977.76,-2791.52
+2024-11-01,2024,11,Q4,Industrie,Süd,Personalaufwand,Aufwand,33267.89,35185.92,33267.89,-1918.03
+2024-11-01,2024,11,Q4,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,13884.42,14394.24,13884.42,-509.82
+2024-11-01,2024,11,Q4,Industrie,Süd,Umsatzerlöse,Erlös,170617.74,159936.0,170617.74,10681.74
+2024-11-01,2024,11,Q4,Industrie,West,Materialaufwand,Aufwand,60240.71,58705.92,60240.71,1534.79
+2024-11-01,2024,11,Q4,Industrie,West,Personalaufwand,Aufwand,27679.46,26906.88,27679.46,772.58
+2024-11-01,2024,11,Q4,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,10637.01,11007.36,10637.01,-370.35
+2024-11-01,2024,11,Q4,Industrie,West,Umsatzerlöse,Erlös,116590.59,122304.0,116590.59,-5713.41
+2024-11-01,2024,11,Q4,Service,Nord,Materialaufwand,Aufwand,6637.37,6652.8,6637.37,-15.43
+2024-11-01,2024,11,Q4,Service,Nord,Personalaufwand,Aufwand,23031.82,23063.04,23031.82,-31.22
+2024-11-01,2024,11,Q4,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,4171.98,3991.68,4171.98,180.3
+2024-11-01,2024,11,Q4,Service,Nord,Umsatzerlöse,Erlös,42610.59,44352.0,42610.59,-1741.41
+2024-11-01,2024,11,Q4,Service,Ost,Materialaufwand,Aufwand,5423.4,5443.2,5423.4,-19.8
+2024-11-01,2024,11,Q4,Service,Ost,Personalaufwand,Aufwand,19034.88,18869.76,19034.88,165.12
+2024-11-01,2024,11,Q4,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,3245.01,3265.92,3245.01,-20.91
+2024-11-01,2024,11,Q4,Service,Ost,Umsatzerlöse,Erlös,37057.8,36288.0,37057.8,769.8
+2024-11-01,2024,11,Q4,Service,Süd,Materialaufwand,Aufwand,10232.3,10281.6,10232.3,-49.3
+2024-11-01,2024,11,Q4,Service,Süd,Personalaufwand,Aufwand,34686.91,35642.88,34686.91,-955.97
+2024-11-01,2024,11,Q4,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,6154.93,6168.96,6154.93,-14.03
+2024-11-01,2024,11,Q4,Service,Süd,Umsatzerlöse,Erlös,73022.37,68544.0,73022.37,4478.37
+2024-11-01,2024,11,Q4,Service,West,Materialaufwand,Aufwand,7658.09,7862.4,7658.09,-204.31
+2024-11-01,2024,11,Q4,Service,West,Personalaufwand,Aufwand,27200.37,27256.32,27200.37,-55.95
+2024-11-01,2024,11,Q4,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4545.18,4717.44,4545.18,-172.26
+2024-11-01,2024,11,Q4,Service,West,Umsatzerlöse,Erlös,51301.28,52416.0,51301.28,-1114.72
+2024-12-01,2024,12,Q4,Handel,Nord,Materialaufwand,Aufwand,46556.21,48203.76,46556.21,-1647.55
+2024-12-01,2024,12,Q4,Handel,Nord,Personalaufwand,Aufwand,10781.97,10884.72,10781.97,-102.75
+2024-12-01,2024,12,Q4,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6861.98,6997.32,6861.98,-135.34
+2024-12-01,2024,12,Q4,Handel,Nord,Umsatzerlöse,Erlös,76731.36,77748.0,76731.36,-1016.64
+2024-12-01,2024,12,Q4,Handel,Ost,Materialaufwand,Aufwand,39774.92,39439.44,39774.92,335.48
+2024-12-01,2024,12,Q4,Handel,Ost,Personalaufwand,Aufwand,8994.01,8905.68,8994.01,88.33
+2024-12-01,2024,12,Q4,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5801.89,5725.08,5801.89,76.81
+2024-12-01,2024,12,Q4,Handel,Ost,Umsatzerlöse,Erlös,64637.16,63612.0,64637.16,1025.16
+2024-12-01,2024,12,Q4,Handel,Süd,Materialaufwand,Aufwand,71357.07,74496.72,71357.07,-3139.65
+2024-12-01,2024,12,Q4,Handel,Süd,Personalaufwand,Aufwand,16960.55,16821.84,16960.55,138.71
+2024-12-01,2024,12,Q4,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,10868.25,10814.04,10868.25,54.21
+2024-12-01,2024,12,Q4,Handel,Süd,Umsatzerlöse,Erlös,120541.58,120156.0,120541.58,385.58
+2024-12-01,2024,12,Q4,Handel,West,Materialaufwand,Aufwand,56092.36,56968.08,56092.36,-875.72
+2024-12-01,2024,12,Q4,Handel,West,Personalaufwand,Aufwand,13112.44,12863.76,13112.44,248.68
+2024-12-01,2024,12,Q4,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,7787.77,8269.56,7787.77,-481.79
+2024-12-01,2024,12,Q4,Handel,West,Umsatzerlöse,Erlös,91428.74,91884.0,91428.74,-455.26
+2024-12-01,2024,12,Q4,Industrie,Nord,Materialaufwand,Aufwand,48883.73,50561.28,48883.73,-1677.55
+2024-12-01,2024,12,Q4,Industrie,Nord,Personalaufwand,Aufwand,22981.47,23173.92,22981.47,-192.45
+2024-12-01,2024,12,Q4,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,9298.16,9480.24,9298.16,-182.08
+2024-12-01,2024,12,Q4,Industrie,Nord,Umsatzerlöse,Erlös,102654.79,105336.0,102654.79,-2681.21
+2024-12-01,2024,12,Q4,Industrie,Ost,Materialaufwand,Aufwand,41586.93,41368.32,41586.93,218.61
+2024-12-01,2024,12,Q4,Industrie,Ost,Personalaufwand,Aufwand,18855.61,18960.48,18855.61,-104.87
+2024-12-01,2024,12,Q4,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,7641.37,7756.56,7641.37,-115.19
+2024-12-01,2024,12,Q4,Industrie,Ost,Umsatzerlöse,Erlös,86460.03,86184.0,86460.03,276.03
+2024-12-01,2024,12,Q4,Industrie,Süd,Materialaufwand,Aufwand,78128.04,78140.16,78128.04,-12.12
+2024-12-01,2024,12,Q4,Industrie,Süd,Personalaufwand,Aufwand,34106.59,35814.24,34106.59,-1707.65
+2024-12-01,2024,12,Q4,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,14685.7,14651.28,14685.7,34.42
+2024-12-01,2024,12,Q4,Industrie,Süd,Umsatzerlöse,Erlös,164124.7,162792.0,164124.7,1332.7
+2024-12-01,2024,12,Q4,Industrie,West,Materialaufwand,Aufwand,58464.94,59754.24,58464.94,-1289.3
+2024-12-01,2024,12,Q4,Industrie,West,Personalaufwand,Aufwand,27105.21,27387.36,27105.21,-282.15
+2024-12-01,2024,12,Q4,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,10390.13,11203.92,10390.13,-813.79
+2024-12-01,2024,12,Q4,Industrie,West,Umsatzerlöse,Erlös,118637.05,124488.0,118637.05,-5850.95
+2024-12-01,2024,12,Q4,Service,Nord,Materialaufwand,Aufwand,6710.11,6771.6,6710.11,-61.49
+2024-12-01,2024,12,Q4,Service,Nord,Personalaufwand,Aufwand,23998.3,23474.88,23998.3,523.42
+2024-12-01,2024,12,Q4,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,4124.2,4062.96,4124.2,61.24
+2024-12-01,2024,12,Q4,Service,Nord,Umsatzerlöse,Erlös,44111.22,45144.0,44111.22,-1032.78
+2024-12-01,2024,12,Q4,Service,Ost,Materialaufwand,Aufwand,5049.31,5540.4,5049.31,-491.09
+2024-12-01,2024,12,Q4,Service,Ost,Personalaufwand,Aufwand,19460.29,19206.72,19460.29,253.57
+2024-12-01,2024,12,Q4,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,3150.63,3324.24,3150.63,-173.61
+2024-12-01,2024,12,Q4,Service,Ost,Umsatzerlöse,Erlös,36745.64,36936.0,36745.64,-190.36
+2024-12-01,2024,12,Q4,Service,Süd,Materialaufwand,Aufwand,9910.53,10465.2,9910.53,-554.67
+2024-12-01,2024,12,Q4,Service,Süd,Personalaufwand,Aufwand,36962.36,36279.36,36962.36,683.0
+2024-12-01,2024,12,Q4,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,6536.13,6279.12,6536.13,257.01
+2024-12-01,2024,12,Q4,Service,Süd,Umsatzerlöse,Erlös,70272.77,69768.0,70272.77,504.77
+2024-12-01,2024,12,Q4,Service,West,Materialaufwand,Aufwand,8068.31,8002.8,8068.31,65.51
+2024-12-01,2024,12,Q4,Service,West,Personalaufwand,Aufwand,26230.52,27743.04,26230.52,-1512.52
+2024-12-01,2024,12,Q4,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4960.08,4801.68,4960.08,158.4
+2024-12-01,2024,12,Q4,Service,West,Umsatzerlöse,Erlös,55237.38,53352.0,55237.38,1885.38
+2025-01-01,2025,1,Q1,Handel,Nord,Materialaufwand,Aufwand,39532.62,38546.09,39532.62,986.53
+2025-01-01,2025,1,Q1,Handel,Nord,Personalaufwand,Aufwand,8881.91,8703.96,8881.91,177.95
+2025-01-01,2025,1,Q1,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,5805.13,5595.4,5805.13,209.73
+2025-01-01,2025,1,Q1,Handel,Nord,Umsatzerlöse,Erlös,62049.1,62171.12,62049.1,-122.02
+2025-01-01,2025,1,Q1,Handel,Ost,Materialaufwand,Aufwand,33625.47,31537.71,33625.47,2087.76
+2025-01-01,2025,1,Q1,Handel,Ost,Personalaufwand,Aufwand,6971.91,7121.42,6971.91,-149.51
+2025-01-01,2025,1,Q1,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,4439.58,4578.06,4439.58,-138.48
+2025-01-01,2025,1,Q1,Handel,Ost,Umsatzerlöse,Erlös,51672.38,50867.28,51672.38,805.1
+2025-01-01,2025,1,Q1,Handel,Süd,Materialaufwand,Aufwand,58926.13,59571.24,58926.13,-645.11
+2025-01-01,2025,1,Q1,Handel,Süd,Personalaufwand,Aufwand,13622.09,13451.57,13622.09,170.52
+2025-01-01,2025,1,Q1,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,8343.99,8647.44,8343.99,-303.45
+2025-01-01,2025,1,Q1,Handel,Süd,Umsatzerlöse,Erlös,97417.78,96082.64,97417.78,1335.14
+2025-01-01,2025,1,Q1,Handel,West,Materialaufwand,Aufwand,46480.3,45554.48,46480.3,925.82
+2025-01-01,2025,1,Q1,Handel,West,Personalaufwand,Aufwand,10266.64,10286.49,10266.64,-19.85
+2025-01-01,2025,1,Q1,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,6684.13,6612.75,6684.13,71.38
+2025-01-01,2025,1,Q1,Handel,West,Umsatzerlöse,Erlös,69258.89,73474.96,69258.89,-4216.07
+2025-01-01,2025,1,Q1,Industrie,Nord,Materialaufwand,Aufwand,39532.76,40431.28,39532.76,-898.52
+2025-01-01,2025,1,Q1,Industrie,Nord,Personalaufwand,Aufwand,19356.39,18531.0,19356.39,825.39
+2025-01-01,2025,1,Q1,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,7482.47,7580.87,7482.47,-98.4
+2025-01-01,2025,1,Q1,Industrie,Nord,Umsatzerlöse,Erlös,80409.78,84231.84,80409.78,-3822.06
+2025-01-01,2025,1,Q1,Industrie,Ost,Materialaufwand,Aufwand,33207.78,33080.14,33207.78,127.64
+2025-01-01,2025,1,Q1,Industrie,Ost,Personalaufwand,Aufwand,15689.63,15161.73,15689.63,527.9
+2025-01-01,2025,1,Q1,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6034.85,6202.53,6034.85,-167.68
+2025-01-01,2025,1,Q1,Industrie,Ost,Umsatzerlöse,Erlös,69871.5,68916.96,69871.5,954.54
+2025-01-01,2025,1,Q1,Industrie,Süd,Materialaufwand,Aufwand,66307.45,62484.71,66307.45,3822.74
+2025-01-01,2025,1,Q1,Industrie,Süd,Personalaufwand,Aufwand,30236.62,28638.83,30236.62,1597.79
+2025-01-01,2025,1,Q1,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,11673.5,11715.88,11673.5,-42.38
+2025-01-01,2025,1,Q1,Industrie,Süd,Umsatzerlöse,Erlös,131411.17,130176.48,131411.17,1234.69
+2025-01-01,2025,1,Q1,Industrie,West,Materialaufwand,Aufwand,45673.76,47782.43,45673.76,-2108.67
+2025-01-01,2025,1,Q1,Industrie,West,Personalaufwand,Aufwand,21367.97,21900.28,21367.97,-532.31
+2025-01-01,2025,1,Q1,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,9092.59,8959.2,9092.59,133.39
+2025-01-01,2025,1,Q1,Industrie,West,Umsatzerlöse,Erlös,98705.23,99546.72,98705.23,-841.49
+2025-01-01,2025,1,Q1,Service,Nord,Materialaufwand,Aufwand,5351.44,5414.9,5351.44,-63.46
+2025-01-01,2025,1,Q1,Service,Nord,Personalaufwand,Aufwand,19361.2,18771.67,19361.2,589.53
+2025-01-01,2025,1,Q1,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3292.27,3248.94,3292.27,43.33
+2025-01-01,2025,1,Q1,Service,Nord,Umsatzerlöse,Erlös,33250.2,36099.36,33250.2,-2849.16
+2025-01-01,2025,1,Q1,Service,Ost,Materialaufwand,Aufwand,4478.84,4430.38,4478.84,48.46
+2025-01-01,2025,1,Q1,Service,Ost,Personalaufwand,Aufwand,15520.96,15358.64,15520.96,162.32
+2025-01-01,2025,1,Q1,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2731.44,2658.23,2731.44,73.21
+2025-01-01,2025,1,Q1,Service,Ost,Umsatzerlöse,Erlös,30709.2,29535.84,30709.2,1173.36
+2025-01-01,2025,1,Q1,Service,Süd,Materialaufwand,Aufwand,8364.13,8368.49,8364.13,-4.36
+2025-01-01,2025,1,Q1,Service,Süd,Personalaufwand,Aufwand,29779.2,29010.76,29779.2,768.44
+2025-01-01,2025,1,Q1,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,4535.98,5021.09,4535.98,-485.11
+2025-01-01,2025,1,Q1,Service,Süd,Umsatzerlöse,Erlös,54616.48,55789.92,54616.48,-1173.44
+2025-01-01,2025,1,Q1,Service,West,Materialaufwand,Aufwand,6521.1,6399.43,6521.1,121.67
+2025-01-01,2025,1,Q1,Service,West,Personalaufwand,Aufwand,22714.35,22184.7,22714.35,529.65
+2025-01-01,2025,1,Q1,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4068.22,3839.66,4068.22,228.56
+2025-01-01,2025,1,Q1,Service,West,Umsatzerlöse,Erlös,42476.92,42662.88,42476.92,-185.96
+2025-02-01,2025,2,Q1,Handel,Nord,Materialaufwand,Aufwand,40814.53,40338.94,40814.53,475.59
+2025-02-01,2025,2,Q1,Handel,Nord,Personalaufwand,Aufwand,8898.8,9108.79,8898.8,-209.99
+2025-02-01,2025,2,Q1,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,5543.63,5855.65,5543.63,-312.02
+2025-02-01,2025,2,Q1,Handel,Nord,Umsatzerlöse,Erlös,62978.9,65062.8,62978.9,-2083.9
+2025-02-01,2025,2,Q1,Handel,Ost,Materialaufwand,Aufwand,35900.28,33004.58,35900.28,2895.7
+2025-02-01,2025,2,Q1,Handel,Ost,Personalaufwand,Aufwand,7269.45,7452.65,7269.45,-183.2
+2025-02-01,2025,2,Q1,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,4904.25,4790.99,4904.25,113.26
+2025-02-01,2025,2,Q1,Handel,Ost,Umsatzerlöse,Erlös,55773.15,53233.2,55773.15,2539.95
+2025-02-01,2025,2,Q1,Handel,Süd,Materialaufwand,Aufwand,63419.82,62341.99,63419.82,1077.83
+2025-02-01,2025,2,Q1,Handel,Süd,Personalaufwand,Aufwand,14320.21,14077.22,14320.21,242.99
+2025-02-01,2025,2,Q1,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,8899.05,9049.64,8899.05,-150.59
+2025-02-01,2025,2,Q1,Handel,Süd,Umsatzerlöse,Erlös,104206.33,100551.6,104206.33,3654.73
+2025-02-01,2025,2,Q1,Handel,West,Materialaufwand,Aufwand,47272.9,47673.29,47272.9,-400.39
+2025-02-01,2025,2,Q1,Handel,West,Personalaufwand,Aufwand,11178.04,10764.94,11178.04,413.1
+2025-02-01,2025,2,Q1,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,6699.5,6920.32,6699.5,-220.82
+2025-02-01,2025,2,Q1,Handel,West,Umsatzerlöse,Erlös,79661.51,76892.4,79661.51,2769.11
+2025-02-01,2025,2,Q1,Industrie,Nord,Materialaufwand,Aufwand,42252.29,42311.81,42252.29,-59.52
+2025-02-01,2025,2,Q1,Industrie,Nord,Personalaufwand,Aufwand,20008.02,19392.91,20008.02,615.11
+2025-02-01,2025,2,Q1,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8476.99,7933.46,8476.99,543.53
+2025-02-01,2025,2,Q1,Industrie,Nord,Umsatzerlöse,Erlös,86485.65,88149.6,86485.65,-1663.95
+2025-02-01,2025,2,Q1,Industrie,Ost,Materialaufwand,Aufwand,35571.73,34618.75,35571.73,952.98
+2025-02-01,2025,2,Q1,Industrie,Ost,Personalaufwand,Aufwand,16447.41,15866.93,16447.41,580.48
+2025-02-01,2025,2,Q1,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6148.09,6491.02,6148.09,-342.93
+2025-02-01,2025,2,Q1,Industrie,Ost,Umsatzerlöse,Erlös,71622.17,72122.4,71622.17,-500.23
+2025-02-01,2025,2,Q1,Industrie,Süd,Materialaufwand,Aufwand,65280.2,65390.98,65280.2,-110.78
+2025-02-01,2025,2,Q1,Industrie,Süd,Personalaufwand,Aufwand,30179.07,29970.86,30179.07,208.21
+2025-02-01,2025,2,Q1,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,12837.21,12260.81,12837.21,576.4
+2025-02-01,2025,2,Q1,Industrie,Süd,Umsatzerlöse,Erlös,135471.8,136231.2,135471.8,-759.4
+2025-02-01,2025,2,Q1,Industrie,West,Materialaufwand,Aufwand,52576.49,50004.86,52576.49,2571.63
+2025-02-01,2025,2,Q1,Industrie,West,Personalaufwand,Aufwand,22143.48,22918.9,22143.48,-775.42
+2025-02-01,2025,2,Q1,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,9314.86,9375.91,9314.86,-61.05
+2025-02-01,2025,2,Q1,Industrie,West,Umsatzerlöse,Erlös,104066.27,104176.8,104066.27,-110.53
+2025-02-01,2025,2,Q1,Service,Nord,Materialaufwand,Aufwand,5483.7,5666.76,5483.7,-183.06
+2025-02-01,2025,2,Q1,Service,Nord,Personalaufwand,Aufwand,19694.87,19644.77,19694.87,50.1
+2025-02-01,2025,2,Q1,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3358.25,3400.06,3358.25,-41.81
+2025-02-01,2025,2,Q1,Service,Nord,Umsatzerlöse,Erlös,38122.3,37778.4,38122.3,343.9
+2025-02-01,2025,2,Q1,Service,Ost,Materialaufwand,Aufwand,4616.25,4636.44,4616.25,-20.19
+2025-02-01,2025,2,Q1,Service,Ost,Personalaufwand,Aufwand,15523.74,16072.99,15523.74,-549.25
+2025-02-01,2025,2,Q1,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2793.24,2781.86,2793.24,11.38
+2025-02-01,2025,2,Q1,Service,Ost,Umsatzerlöse,Erlös,32568.55,30909.6,32568.55,1658.95
+2025-02-01,2025,2,Q1,Service,Süd,Materialaufwand,Aufwand,8563.83,8757.72,8563.83,-193.89
+2025-02-01,2025,2,Q1,Service,Süd,Personalaufwand,Aufwand,29893.43,30360.1,29893.43,-466.67
+2025-02-01,2025,2,Q1,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5477.39,5254.63,5477.39,222.76
+2025-02-01,2025,2,Q1,Service,Süd,Umsatzerlöse,Erlös,60256.28,58384.8,60256.28,1871.48
+2025-02-01,2025,2,Q1,Service,West,Materialaufwand,Aufwand,7165.64,6697.08,7165.64,468.56
+2025-02-01,2025,2,Q1,Service,West,Personalaufwand,Aufwand,23267.92,23216.54,23267.92,51.38
+2025-02-01,2025,2,Q1,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4049.03,4018.25,4049.03,30.78
+2025-02-01,2025,2,Q1,Service,West,Umsatzerlöse,Erlös,48145.34,44647.2,48145.34,3498.14
+2025-03-01,2025,3,Q1,Handel,Nord,Materialaufwand,Aufwand,45153.63,45717.46,45153.63,-563.83
+2025-03-01,2025,3,Q1,Handel,Nord,Personalaufwand,Aufwand,10243.18,10323.3,10243.18,-80.12
+2025-03-01,2025,3,Q1,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6799.12,6636.41,6799.12,162.71
+2025-03-01,2025,3,Q1,Handel,Nord,Umsatzerlöse,Erlös,71829.82,73737.84,71829.82,-1908.02
+2025-03-01,2025,3,Q1,Handel,Ost,Materialaufwand,Aufwand,39879.53,37405.2,39879.53,2474.33
+2025-03-01,2025,3,Q1,Handel,Ost,Personalaufwand,Aufwand,8804.61,8446.33,8804.61,358.28
+2025-03-01,2025,3,Q1,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5523.7,5429.79,5523.7,93.91
+2025-03-01,2025,3,Q1,Handel,Ost,Umsatzerlöse,Erlös,64624.38,60330.96,64624.38,4293.42
+2025-03-01,2025,3,Q1,Handel,Süd,Materialaufwand,Aufwand,68089.35,70654.26,68089.35,-2564.91
+2025-03-01,2025,3,Q1,Handel,Süd,Personalaufwand,Aufwand,15743.05,15954.19,15743.05,-211.14
+2025-03-01,2025,3,Q1,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,11165.28,10256.26,11165.28,909.02
+2025-03-01,2025,3,Q1,Handel,Süd,Umsatzerlöse,Erlös,107594.21,113958.48,107594.21,-6364.27
+2025-03-01,2025,3,Q1,Handel,West,Materialaufwand,Aufwand,53818.97,54029.73,53818.97,-210.76
+2025-03-01,2025,3,Q1,Handel,West,Personalaufwand,Aufwand,12504.29,12200.26,12504.29,304.03
+2025-03-01,2025,3,Q1,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,8407.8,7843.02,8407.8,564.78
+2025-03-01,2025,3,Q1,Handel,West,Umsatzerlöse,Erlös,90059.6,87144.72,90059.6,2914.88
+2025-03-01,2025,3,Q1,Industrie,Nord,Materialaufwand,Aufwand,46561.76,47953.38,46561.76,-1391.62
+2025-03-01,2025,3,Q1,Industrie,Nord,Personalaufwand,Aufwand,20712.27,21978.63,20712.27,-1266.36
+2025-03-01,2025,3,Q1,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8539.13,8991.26,8539.13,-452.13
+2025-03-01,2025,3,Q1,Industrie,Nord,Umsatzerlöse,Erlös,101481.65,99902.88,101481.65,1578.77
+2025-03-01,2025,3,Q1,Industrie,Ost,Materialaufwand,Aufwand,37827.85,39234.59,37827.85,-1406.74
+2025-03-01,2025,3,Q1,Industrie,Ost,Personalaufwand,Aufwand,18694.84,17982.52,18694.84,712.32
+2025-03-01,2025,3,Q1,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,7349.51,7356.48,7349.51,-6.97
+2025-03-01,2025,3,Q1,Industrie,Ost,Umsatzerlöse,Erlös,80703.91,81738.72,80703.91,-1034.81
+2025-03-01,2025,3,Q1,Industrie,Süd,Materialaufwand,Aufwand,72142.66,74109.77,72142.66,-1967.11
+2025-03-01,2025,3,Q1,Industrie,Süd,Personalaufwand,Aufwand,33798.94,33966.98,33798.94,-168.04
+2025-03-01,2025,3,Q1,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,13998.96,13895.58,13998.96,103.38
+2025-03-01,2025,3,Q1,Industrie,Süd,Umsatzerlöse,Erlös,157991.23,154395.36,157991.23,3595.87
+2025-03-01,2025,3,Q1,Industrie,West,Materialaufwand,Aufwand,56007.89,56672.18,56007.89,-664.29
+2025-03-01,2025,3,Q1,Industrie,West,Personalaufwand,Aufwand,26428.14,25974.75,26428.14,453.39
+2025-03-01,2025,3,Q1,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,10295.01,10626.03,10295.01,-331.02
+2025-03-01,2025,3,Q1,Industrie,West,Umsatzerlöse,Erlös,120625.54,118067.04,120625.54,2558.5
+2025-03-01,2025,3,Q1,Service,Nord,Materialaufwand,Aufwand,6308.09,6422.33,6308.09,-114.24
+2025-03-01,2025,3,Q1,Service,Nord,Personalaufwand,Aufwand,23763.49,22264.07,23763.49,1499.42
+2025-03-01,2025,3,Q1,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,4083.97,3853.4,4083.97,230.57
+2025-03-01,2025,3,Q1,Service,Nord,Umsatzerlöse,Erlös,43821.54,42815.52,43821.54,1006.02
+2025-03-01,2025,3,Q1,Service,Ost,Materialaufwand,Aufwand,5322.29,5254.63,5322.29,67.66
+2025-03-01,2025,3,Q1,Service,Ost,Personalaufwand,Aufwand,17743.38,18216.06,17743.38,-472.68
+2025-03-01,2025,3,Q1,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,3116.34,3152.78,3116.34,-36.44
+2025-03-01,2025,3,Q1,Service,Ost,Umsatzerlöse,Erlös,32958.21,35030.88,32958.21,-2072.67
+2025-03-01,2025,3,Q1,Service,Süd,Materialaufwand,Aufwand,10163.13,9925.42,10163.13,237.71
+2025-03-01,2025,3,Q1,Service,Süd,Personalaufwand,Aufwand,31966.71,34408.11,31966.71,-2441.4
+2025-03-01,2025,3,Q1,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,6088.17,5955.25,6088.17,132.92
+2025-03-01,2025,3,Q1,Service,Süd,Umsatzerlöse,Erlös,67480.14,66169.44,67480.14,1310.7
+2025-03-01,2025,3,Q1,Service,West,Materialaufwand,Aufwand,7705.29,7590.02,7705.29,115.27
+2025-03-01,2025,3,Q1,Service,West,Personalaufwand,Aufwand,26940.58,26312.08,26940.58,628.5
+2025-03-01,2025,3,Q1,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4499.62,4554.01,4499.62,-54.39
+2025-03-01,2025,3,Q1,Service,West,Umsatzerlöse,Erlös,50256.39,50600.16,50256.39,-343.77
+2025-04-01,2025,4,Q2,Handel,Nord,Materialaufwand,Aufwand,44649.28,44821.04,44649.28,-171.76
+2025-04-01,2025,4,Q2,Handel,Nord,Personalaufwand,Aufwand,10009.78,10120.88,10009.78,-111.1
+2025-04-01,2025,4,Q2,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6489.65,6506.28,6489.65,-16.63
+2025-04-01,2025,4,Q2,Handel,Nord,Umsatzerlöse,Erlös,73044.4,72292.0,73044.4,752.4
+2025-04-01,2025,4,Q2,Handel,Ost,Materialaufwand,Aufwand,41605.43,36671.76,41605.43,4933.67
+2025-04-01,2025,4,Q2,Handel,Ost,Personalaufwand,Aufwand,8264.45,8280.72,8264.45,-16.27
+2025-04-01,2025,4,Q2,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5310.49,5323.32,5310.49,-12.83
+2025-04-01,2025,4,Q2,Handel,Ost,Umsatzerlöse,Erlös,62367.37,59148.0,62367.37,3219.37
+2025-04-01,2025,4,Q2,Handel,Süd,Materialaufwand,Aufwand,67784.0,69268.88,67784.0,-1484.88
+2025-04-01,2025,4,Q2,Handel,Süd,Personalaufwand,Aufwand,14720.14,15641.36,14720.14,-921.22
+2025-04-01,2025,4,Q2,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,10044.73,10055.16,10044.73,-10.43
+2025-04-01,2025,4,Q2,Handel,Süd,Umsatzerlöse,Erlös,109613.28,111724.0,109613.28,-2110.72
+2025-04-01,2025,4,Q2,Handel,West,Materialaufwand,Aufwand,56642.08,52970.32,56642.08,3671.76
+2025-04-01,2025,4,Q2,Handel,West,Personalaufwand,Aufwand,12514.4,11961.04,12514.4,553.36
+2025-04-01,2025,4,Q2,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,7879.19,7689.24,7879.19,189.95
+2025-04-01,2025,4,Q2,Handel,West,Umsatzerlöse,Erlös,90954.63,85436.0,90954.63,5518.63
+2025-04-01,2025,4,Q2,Industrie,Nord,Materialaufwand,Aufwand,50631.67,47013.12,50631.67,3618.55
+2025-04-01,2025,4,Q2,Industrie,Nord,Personalaufwand,Aufwand,19805.91,21547.68,19805.91,-1741.77
+2025-04-01,2025,4,Q2,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,9190.42,8814.96,9190.42,375.46
+2025-04-01,2025,4,Q2,Industrie,Nord,Umsatzerlöse,Erlös,95871.72,97944.0,95871.72,-2072.28
+2025-04-01,2025,4,Q2,Industrie,Ost,Materialaufwand,Aufwand,38989.04,38465.28,38989.04,523.76
+2025-04-01,2025,4,Q2,Industrie,Ost,Personalaufwand,Aufwand,17841.24,17629.92,17841.24,211.32
+2025-04-01,2025,4,Q2,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6830.98,7212.24,6830.98,-381.26
+2025-04-01,2025,4,Q2,Industrie,Ost,Umsatzerlöse,Erlös,80359.39,80136.0,80359.39,223.39
+2025-04-01,2025,4,Q2,Industrie,Süd,Materialaufwand,Aufwand,82276.37,72656.64,82276.37,9619.73
+2025-04-01,2025,4,Q2,Industrie,Süd,Personalaufwand,Aufwand,35608.53,33300.96,35608.53,2307.57
+2025-04-01,2025,4,Q2,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,13633.89,13623.12,13633.89,10.77
+2025-04-01,2025,4,Q2,Industrie,Süd,Umsatzerlöse,Erlös,152710.2,151368.0,152710.2,1342.2
+2025-04-01,2025,4,Q2,Industrie,West,Materialaufwand,Aufwand,58666.72,55560.96,58666.72,3105.76
+2025-04-01,2025,4,Q2,Industrie,West,Personalaufwand,Aufwand,24389.74,25465.44,24389.74,-1075.7
+2025-04-01,2025,4,Q2,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,10234.69,10417.68,10234.69,-182.99
+2025-04-01,2025,4,Q2,Industrie,West,Umsatzerlöse,Erlös,108449.75,115752.0,108449.75,-7302.25
+2025-04-01,2025,4,Q2,Service,Nord,Materialaufwand,Aufwand,6316.67,6296.4,6316.67,20.27
+2025-04-01,2025,4,Q2,Service,Nord,Personalaufwand,Aufwand,21495.03,21827.52,21495.03,-332.49
+2025-04-01,2025,4,Q2,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3766.76,3777.84,3766.76,-11.08
+2025-04-01,2025,4,Q2,Service,Nord,Umsatzerlöse,Erlös,41548.14,41976.0,41548.14,-427.86
+2025-04-01,2025,4,Q2,Service,Ost,Materialaufwand,Aufwand,5317.17,5151.6,5317.17,165.57
+2025-04-01,2025,4,Q2,Service,Ost,Personalaufwand,Aufwand,18027.54,17858.88,18027.54,168.66
+2025-04-01,2025,4,Q2,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,3104.15,3090.96,3104.15,13.19
+2025-04-01,2025,4,Q2,Service,Ost,Umsatzerlöse,Erlös,34094.99,34344.0,34094.99,-249.01
+2025-04-01,2025,4,Q2,Service,Süd,Materialaufwand,Aufwand,9603.54,9730.8,9603.54,-127.26
+2025-04-01,2025,4,Q2,Service,Süd,Personalaufwand,Aufwand,36426.03,33733.44,36426.03,2692.59
+2025-04-01,2025,4,Q2,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5824.26,5838.48,5824.26,-14.22
+2025-04-01,2025,4,Q2,Service,Süd,Umsatzerlöse,Erlös,62409.4,64872.0,62409.4,-2462.6
+2025-04-01,2025,4,Q2,Service,West,Materialaufwand,Aufwand,7579.85,7441.2,7579.85,138.65
+2025-04-01,2025,4,Q2,Service,West,Personalaufwand,Aufwand,26435.5,25796.16,26435.5,639.34
+2025-04-01,2025,4,Q2,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4290.68,4464.72,4290.68,-174.04
+2025-04-01,2025,4,Q2,Service,West,Umsatzerlöse,Erlös,49193.62,49608.0,49193.62,-414.38
+2025-05-01,2025,5,Q2,Handel,Nord,Materialaufwand,Aufwand,42809.8,46165.67,42809.8,-3355.87
+2025-05-01,2025,5,Q2,Handel,Nord,Personalaufwand,Aufwand,10289.43,10424.51,10289.43,-135.08
+2025-05-01,2025,5,Q2,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6350.16,6701.47,6350.16,-351.31
+2025-05-01,2025,5,Q2,Handel,Nord,Umsatzerlöse,Erlös,72062.76,74460.76,72062.76,-2398.0
+2025-05-01,2025,5,Q2,Handel,Ost,Materialaufwand,Aufwand,41415.27,37771.91,41415.27,3643.36
+2025-05-01,2025,5,Q2,Handel,Ost,Personalaufwand,Aufwand,8336.53,8529.14,8336.53,-192.61
+2025-05-01,2025,5,Q2,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5103.55,5483.02,5103.55,-379.47
+2025-05-01,2025,5,Q2,Handel,Ost,Umsatzerlöse,Erlös,62991.74,60922.44,62991.74,2069.3
+2025-05-01,2025,5,Q2,Handel,Süd,Materialaufwand,Aufwand,72274.77,71346.95,72274.77,927.82
+2025-05-01,2025,5,Q2,Handel,Süd,Personalaufwand,Aufwand,16286.53,16110.6,16286.53,175.93
+2025-05-01,2025,5,Q2,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,10932.05,10356.81,10932.05,575.24
+2025-05-01,2025,5,Q2,Handel,Süd,Umsatzerlöse,Erlös,112462.11,115075.72,112462.11,-2613.61
+2025-05-01,2025,5,Q2,Handel,West,Materialaufwand,Aufwand,51631.41,54559.43,51631.41,-2928.02
+2025-05-01,2025,5,Q2,Handel,West,Personalaufwand,Aufwand,11993.85,12319.87,11993.85,-326.02
+2025-05-01,2025,5,Q2,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,7665.07,7919.92,7665.07,-254.85
+2025-05-01,2025,5,Q2,Handel,West,Umsatzerlöse,Erlös,87384.15,87999.08,87384.15,-614.93
+2025-05-01,2025,5,Q2,Industrie,Nord,Materialaufwand,Aufwand,51529.54,48423.51,51529.54,3106.03
+2025-05-01,2025,5,Q2,Industrie,Nord,Personalaufwand,Aufwand,22258.39,22194.11,22258.39,64.28
+2025-05-01,2025,5,Q2,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8914.14,9079.41,8914.14,-165.27
+2025-05-01,2025,5,Q2,Industrie,Nord,Umsatzerlöse,Erlös,106369.37,100882.32,106369.37,5487.05
+2025-05-01,2025,5,Q2,Industrie,Ost,Materialaufwand,Aufwand,42741.68,39619.24,42741.68,3122.44
+2025-05-01,2025,5,Q2,Industrie,Ost,Personalaufwand,Aufwand,17735.77,18158.82,17735.77,-423.05
+2025-05-01,2025,5,Q2,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,7568.9,7428.61,7568.9,140.29
+2025-05-01,2025,5,Q2,Industrie,Ost,Umsatzerlöse,Erlös,84708.13,82540.08,84708.13,2168.05
+2025-05-01,2025,5,Q2,Industrie,Süd,Materialaufwand,Aufwand,75999.04,74836.34,75999.04,1162.7
+2025-05-01,2025,5,Q2,Industrie,Süd,Personalaufwand,Aufwand,33495.48,34299.99,33495.48,-804.51
+2025-05-01,2025,5,Q2,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,13771.94,14031.81,13771.94,-259.87
+2025-05-01,2025,5,Q2,Industrie,Süd,Umsatzerlöse,Erlös,164041.38,155909.04,164041.38,8132.34
+2025-05-01,2025,5,Q2,Industrie,West,Materialaufwand,Aufwand,63701.93,57227.79,63701.93,6474.14
+2025-05-01,2025,5,Q2,Industrie,West,Personalaufwand,Aufwand,27510.23,26229.4,27510.23,1280.83
+2025-05-01,2025,5,Q2,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,10139.07,10730.21,10139.07,-591.14
+2025-05-01,2025,5,Q2,Industrie,West,Umsatzerlöse,Erlös,121993.42,119224.56,121993.42,2768.86
+2025-05-01,2025,5,Q2,Service,Nord,Materialaufwand,Aufwand,6460.0,6485.29,6460.0,-25.29
+2025-05-01,2025,5,Q2,Service,Nord,Personalaufwand,Aufwand,22763.13,22482.35,22763.13,280.78
+2025-05-01,2025,5,Q2,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3905.57,3891.18,3905.57,14.39
+2025-05-01,2025,5,Q2,Service,Nord,Umsatzerlöse,Erlös,44289.89,43235.28,44289.89,1054.61
+2025-05-01,2025,5,Q2,Service,Ost,Materialaufwand,Aufwand,5344.69,5306.15,5344.69,38.54
+2025-05-01,2025,5,Q2,Service,Ost,Personalaufwand,Aufwand,17519.9,18394.65,17519.9,-874.75
+2025-05-01,2025,5,Q2,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,3365.78,3183.69,3365.78,182.09
+2025-05-01,2025,5,Q2,Service,Ost,Umsatzerlöse,Erlös,35053.26,35374.32,35053.26,-321.06
+2025-05-01,2025,5,Q2,Service,Süd,Materialaufwand,Aufwand,10036.06,10022.72,10036.06,13.34
+2025-05-01,2025,5,Q2,Service,Süd,Personalaufwand,Aufwand,36248.78,34745.44,36248.78,1503.34
+2025-05-01,2025,5,Q2,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,6103.08,6013.63,6103.08,89.45
+2025-05-01,2025,5,Q2,Service,Süd,Umsatzerlöse,Erlös,68295.37,66818.16,68295.37,1477.21
+2025-05-01,2025,5,Q2,Service,West,Materialaufwand,Aufwand,7774.38,7664.44,7774.38,109.94
+2025-05-01,2025,5,Q2,Service,West,Personalaufwand,Aufwand,25215.44,26570.04,25215.44,-1354.6
+2025-05-01,2025,5,Q2,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4572.16,4598.66,4572.16,-26.5
+2025-05-01,2025,5,Q2,Service,West,Umsatzerlöse,Erlös,51797.4,51096.24,51797.4,701.16
+2025-06-01,2025,6,Q2,Handel,Nord,Materialaufwand,Aufwand,42159.58,43924.62,42159.58,-1765.04
+2025-06-01,2025,6,Q2,Handel,Nord,Personalaufwand,Aufwand,9750.32,9918.46,9750.32,-168.14
+2025-06-01,2025,6,Q2,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6369.55,6376.15,6369.55,-6.6
+2025-06-01,2025,6,Q2,Handel,Nord,Umsatzerlöse,Erlös,72790.99,70846.16,72790.99,1944.83
+2025-06-01,2025,6,Q2,Handel,Ost,Materialaufwand,Aufwand,38183.35,35938.32,38183.35,2245.03
+2025-06-01,2025,6,Q2,Handel,Ost,Personalaufwand,Aufwand,8341.88,8115.11,8341.88,226.77
+2025-06-01,2025,6,Q2,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5318.35,5216.85,5318.35,101.5
+2025-06-01,2025,6,Q2,Handel,Ost,Umsatzerlöse,Erlös,58715.34,57965.04,58715.34,750.3
+2025-06-01,2025,6,Q2,Handel,Süd,Materialaufwand,Aufwand,65608.97,67883.5,65608.97,-2274.53
+2025-06-01,2025,6,Q2,Handel,Süd,Personalaufwand,Aufwand,15073.36,15328.53,15073.36,-255.17
+2025-06-01,2025,6,Q2,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,9129.63,9854.06,9129.63,-724.43
+2025-06-01,2025,6,Q2,Handel,Süd,Umsatzerlöse,Erlös,105739.09,109489.52,105739.09,-3750.43
+2025-06-01,2025,6,Q2,Handel,West,Materialaufwand,Aufwand,51160.48,51910.91,51160.48,-750.43
+2025-06-01,2025,6,Q2,Handel,West,Personalaufwand,Aufwand,11782.63,11721.82,11782.63,60.81
+2025-06-01,2025,6,Q2,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,7486.46,7535.46,7486.46,-49.0
+2025-06-01,2025,6,Q2,Handel,West,Umsatzerlöse,Erlös,79491.37,83727.28,79491.37,-4235.91
+2025-06-01,2025,6,Q2,Industrie,Nord,Materialaufwand,Aufwand,48090.31,46072.86,48090.31,2017.45
+2025-06-01,2025,6,Q2,Industrie,Nord,Personalaufwand,Aufwand,19853.71,21116.73,19853.71,-1263.02
+2025-06-01,2025,6,Q2,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8553.61,8638.66,8553.61,-85.05
+2025-06-01,2025,6,Q2,Industrie,Nord,Umsatzerlöse,Erlös,96335.81,95985.12,96335.81,350.69
+2025-06-01,2025,6,Q2,Industrie,Ost,Materialaufwand,Aufwand,39639.52,37695.97,39639.52,1943.55
+2025-06-01,2025,6,Q2,Industrie,Ost,Personalaufwand,Aufwand,16996.43,17277.32,16996.43,-280.89
+2025-06-01,2025,6,Q2,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6860.24,7068.0,6860.24,-207.76
+2025-06-01,2025,6,Q2,Industrie,Ost,Umsatzerlöse,Erlös,85601.94,78533.28,85601.94,7068.66
+2025-06-01,2025,6,Q2,Industrie,Süd,Materialaufwand,Aufwand,75660.64,71203.51,75660.64,4457.13
+2025-06-01,2025,6,Q2,Industrie,Süd,Personalaufwand,Aufwand,32740.16,32634.94,32740.16,105.22
+2025-06-01,2025,6,Q2,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,13051.05,13350.66,13051.05,-299.61
+2025-06-01,2025,6,Q2,Industrie,Süd,Umsatzerlöse,Erlös,147875.05,148340.64,147875.05,-465.59
+2025-06-01,2025,6,Q2,Industrie,West,Materialaufwand,Aufwand,57845.16,54449.74,57845.16,3395.42
+2025-06-01,2025,6,Q2,Industrie,West,Personalaufwand,Aufwand,24922.5,24956.13,24922.5,-33.63
+2025-06-01,2025,6,Q2,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,10559.09,10209.33,10559.09,349.76
+2025-06-01,2025,6,Q2,Industrie,West,Umsatzerlöse,Erlös,115627.21,113436.96,115627.21,2190.25
+2025-06-01,2025,6,Q2,Service,Nord,Materialaufwand,Aufwand,5978.83,6170.47,5978.83,-191.64
+2025-06-01,2025,6,Q2,Service,Nord,Personalaufwand,Aufwand,21863.55,21390.97,21863.55,472.58
+2025-06-01,2025,6,Q2,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3627.27,3702.28,3627.27,-75.01
+2025-06-01,2025,6,Q2,Service,Nord,Umsatzerlöse,Erlös,41023.1,41136.48,41023.1,-113.38
+2025-06-01,2025,6,Q2,Service,Ost,Materialaufwand,Aufwand,5487.91,5048.57,5487.91,439.34
+2025-06-01,2025,6,Q2,Service,Ost,Personalaufwand,Aufwand,17971.63,17501.7,17971.63,469.93
+2025-06-01,2025,6,Q2,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2976.01,3029.14,2976.01,-53.13
+2025-06-01,2025,6,Q2,Service,Ost,Umsatzerlöse,Erlös,33471.67,33657.12,33471.67,-185.45
+2025-06-01,2025,6,Q2,Service,Süd,Materialaufwand,Aufwand,9268.44,9536.18,9268.44,-267.74
+2025-06-01,2025,6,Q2,Service,Süd,Personalaufwand,Aufwand,34734.59,33058.77,34734.59,1675.82
+2025-06-01,2025,6,Q2,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5765.8,5721.71,5765.8,44.09
+2025-06-01,2025,6,Q2,Service,Süd,Umsatzerlöse,Erlös,47558.83,63574.56,47558.83,-16015.73
+2025-06-01,2025,6,Q2,Service,West,Materialaufwand,Aufwand,7170.03,7292.38,7170.03,-122.35
+2025-06-01,2025,6,Q2,Service,West,Personalaufwand,Aufwand,26110.32,25280.24,26110.32,830.08
+2025-06-01,2025,6,Q2,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4283.31,4375.43,4283.31,-92.12
+2025-06-01,2025,6,Q2,Service,West,Umsatzerlöse,Erlös,50588.36,48615.84,50588.36,1972.52
+2025-07-01,2025,7,Q3,Handel,Nord,Materialaufwand,Aufwand,43814.63,41235.36,43814.63,2579.27
+2025-07-01,2025,7,Q3,Handel,Nord,Personalaufwand,Aufwand,9009.05,9311.21,9009.05,-302.16
+2025-07-01,2025,7,Q3,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,5962.5,5985.78,5962.5,-23.28
+2025-07-01,2025,7,Q3,Handel,Nord,Umsatzerlöse,Erlös,66867.09,66508.64,66867.09,358.45
+2025-07-01,2025,7,Q3,Handel,Ost,Materialaufwand,Aufwand,37555.69,33738.02,37555.69,3817.67
+2025-07-01,2025,7,Q3,Handel,Ost,Personalaufwand,Aufwand,7360.42,7618.26,7360.42,-257.84
+2025-07-01,2025,7,Q3,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,4856.13,4897.45,4856.13,-41.32
+2025-07-01,2025,7,Q3,Handel,Ost,Umsatzerlöse,Erlös,58726.02,54416.16,58726.02,4309.86
+2025-07-01,2025,7,Q3,Handel,Süd,Materialaufwand,Aufwand,65386.83,63727.37,65386.83,1659.46
+2025-07-01,2025,7,Q3,Handel,Süd,Personalaufwand,Aufwand,14169.79,14390.05,14169.79,-220.26
+2025-07-01,2025,7,Q3,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,9350.25,9250.75,9350.25,99.5
+2025-07-01,2025,7,Q3,Handel,Süd,Umsatzerlöse,Erlös,104441.68,102786.08,104441.68,1655.6
+2025-07-01,2025,7,Q3,Handel,West,Materialaufwand,Aufwand,48938.18,48732.69,48938.18,205.49
+2025-07-01,2025,7,Q3,Handel,West,Personalaufwand,Aufwand,10953.28,11004.16,10953.28,-50.88
+2025-07-01,2025,7,Q3,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,6791.45,7074.1,6791.45,-282.65
+2025-07-01,2025,7,Q3,Handel,West,Umsatzerlöse,Erlös,77836.55,78601.12,77836.55,-764.57
+2025-07-01,2025,7,Q3,Industrie,Nord,Materialaufwand,Aufwand,47683.05,43252.07,47683.05,4430.98
+2025-07-01,2025,7,Q3,Industrie,Nord,Personalaufwand,Aufwand,20663.72,19823.87,20663.72,839.85
+2025-07-01,2025,7,Q3,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,7970.93,8109.76,7970.93,-138.83
+2025-07-01,2025,7,Q3,Industrie,Nord,Umsatzerlöse,Erlös,89840.98,90108.48,89840.98,-267.5
+2025-07-01,2025,7,Q3,Industrie,Ost,Materialaufwand,Aufwand,41402.99,35388.06,41402.99,6014.93
+2025-07-01,2025,7,Q3,Industrie,Ost,Personalaufwand,Aufwand,16658.29,16219.53,16658.29,438.76
+2025-07-01,2025,7,Q3,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6694.15,6635.26,6694.15,58.89
+2025-07-01,2025,7,Q3,Industrie,Ost,Umsatzerlöse,Erlös,75964.63,73725.12,75964.63,2239.51
+2025-07-01,2025,7,Q3,Industrie,Süd,Materialaufwand,Aufwand,72146.96,66844.11,72146.96,5302.85
+2025-07-01,2025,7,Q3,Industrie,Süd,Personalaufwand,Aufwand,30653.38,30636.88,30653.38,16.5
+2025-07-01,2025,7,Q3,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,12581.32,12533.27,12581.32,48.05
+2025-07-01,2025,7,Q3,Industrie,Süd,Umsatzerlöse,Erlös,130771.28,139258.56,130771.28,-8487.28
+2025-07-01,2025,7,Q3,Industrie,West,Materialaufwand,Aufwand,56334.1,51116.08,56334.1,5218.02
+2025-07-01,2025,7,Q3,Industrie,West,Personalaufwand,Aufwand,24094.79,23428.2,24094.79,666.59
+2025-07-01,2025,7,Q3,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,9214.9,9584.27,9214.9,-369.37
+2025-07-01,2025,7,Q3,Industrie,West,Umsatzerlöse,Erlös,111399.43,106491.84,111399.43,4907.59
+2025-07-01,2025,7,Q3,Service,Nord,Materialaufwand,Aufwand,5575.78,5792.69,5575.78,-216.91
+2025-07-01,2025,7,Q3,Service,Nord,Personalaufwand,Aufwand,20209.69,20081.32,20209.69,128.37
+2025-07-01,2025,7,Q3,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3346.65,3475.61,3346.65,-128.96
+2025-07-01,2025,7,Q3,Service,Nord,Umsatzerlöse,Erlös,39516.45,38617.92,39516.45,898.53
+2025-07-01,2025,7,Q3,Service,Ost,Materialaufwand,Aufwand,4914.53,4739.47,4914.53,175.06
+2025-07-01,2025,7,Q3,Service,Ost,Personalaufwand,Aufwand,16402.01,16430.17,16402.01,-28.16
+2025-07-01,2025,7,Q3,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2983.87,2843.68,2983.87,140.19
+2025-07-01,2025,7,Q3,Service,Ost,Umsatzerlöse,Erlös,30137.63,31596.48,30137.63,-1458.85
+2025-07-01,2025,7,Q3,Service,Süd,Materialaufwand,Aufwand,9677.02,8952.34,9677.02,724.68
+2025-07-01,2025,7,Q3,Service,Süd,Personalaufwand,Aufwand,33231.37,31034.76,33231.37,2196.61
+2025-07-01,2025,7,Q3,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5330.2,5371.4,5330.2,-41.2
+2025-07-01,2025,7,Q3,Service,Süd,Umsatzerlöse,Erlös,48400.83,59682.24,48400.83,-11281.41
+2025-07-01,2025,7,Q3,Service,West,Materialaufwand,Aufwand,6874.9,6845.9,6874.9,29.0
+2025-07-01,2025,7,Q3,Service,West,Personalaufwand,Aufwand,23817.28,23732.47,23817.28,84.81
+2025-07-01,2025,7,Q3,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4330.05,4107.54,4330.05,222.51
+2025-07-01,2025,7,Q3,Service,West,Umsatzerlöse,Erlös,46821.74,45639.36,46821.74,1182.38
+2025-08-01,2025,8,Q3,Handel,Nord,Materialaufwand,Aufwand,37527.62,39442.52,37527.62,-1914.9
+2025-08-01,2025,8,Q3,Handel,Nord,Personalaufwand,Aufwand,9277.9,8906.37,9277.9,371.53
+2025-08-01,2025,8,Q3,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,5597.42,5725.53,5597.42,-128.11
+2025-08-01,2025,8,Q3,Handel,Nord,Umsatzerlöse,Erlös,66264.6,63616.96,66264.6,2647.64
+2025-08-01,2025,8,Q3,Handel,Ost,Materialaufwand,Aufwand,35723.92,32271.15,35723.92,3452.77
+2025-08-01,2025,8,Q3,Handel,Ost,Personalaufwand,Aufwand,7122.62,7287.03,7122.62,-164.41
+2025-08-01,2025,8,Q3,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,4742.73,4684.52,4742.73,58.21
+2025-08-01,2025,8,Q3,Handel,Ost,Umsatzerlöse,Erlös,57013.69,52050.24,57013.69,4963.45
+2025-08-01,2025,8,Q3,Handel,Süd,Materialaufwand,Aufwand,63644.93,60956.61,63644.93,2688.32
+2025-08-01,2025,8,Q3,Handel,Süd,Personalaufwand,Aufwand,13717.72,13764.4,13717.72,-46.68
+2025-08-01,2025,8,Q3,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,8445.86,8848.54,8445.86,-402.68
+2025-08-01,2025,8,Q3,Handel,Süd,Umsatzerlöse,Erlös,94529.35,98317.12,94529.35,-3787.77
+2025-08-01,2025,8,Q3,Handel,West,Materialaufwand,Aufwand,48132.88,46613.88,48132.88,1519.0
+2025-08-01,2025,8,Q3,Handel,West,Personalaufwand,Aufwand,10964.88,10525.72,10964.88,439.16
+2025-08-01,2025,8,Q3,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,6665.38,6766.53,6665.38,-101.15
+2025-08-01,2025,8,Q3,Handel,West,Umsatzerlöse,Erlös,74239.7,75183.68,74239.7,-943.98
+2025-08-01,2025,8,Q3,Industrie,Nord,Materialaufwand,Aufwand,44033.29,41371.55,44033.29,2661.74
+2025-08-01,2025,8,Q3,Industrie,Nord,Personalaufwand,Aufwand,19145.89,18961.96,19145.89,183.93
+2025-08-01,2025,8,Q3,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,7956.98,7757.16,7956.98,199.82
+2025-08-01,2025,8,Q3,Industrie,Nord,Umsatzerlöse,Erlös,86755.54,86190.72,86755.54,564.82
+2025-08-01,2025,8,Q3,Industrie,Ost,Materialaufwand,Aufwand,36305.61,33849.45,36305.61,2456.16
+2025-08-01,2025,8,Q3,Industrie,Ost,Personalaufwand,Aufwand,15130.68,15514.33,15130.68,-383.65
+2025-08-01,2025,8,Q3,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,6304.89,6346.77,6304.89,-41.88
+2025-08-01,2025,8,Q3,Industrie,Ost,Umsatzerlöse,Erlös,73077.45,70519.68,73077.45,2557.77
+2025-08-01,2025,8,Q3,Industrie,Süd,Materialaufwand,Aufwand,70882.69,63937.84,70882.69,6944.85
+2025-08-01,2025,8,Q3,Industrie,Süd,Personalaufwand,Aufwand,28769.78,29304.84,28769.78,-535.06
+2025-08-01,2025,8,Q3,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,11092.98,11988.35,11092.98,-895.37
+2025-08-01,2025,8,Q3,Industrie,Süd,Umsatzerlöse,Erlös,133370.58,133203.84,133370.58,166.74
+2025-08-01,2025,8,Q3,Industrie,West,Materialaufwand,Aufwand,54598.21,48893.64,54598.21,5704.57
+2025-08-01,2025,8,Q3,Industrie,West,Personalaufwand,Aufwand,22525.81,22409.59,22525.81,116.22
+2025-08-01,2025,8,Q3,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,9189.51,9167.56,9189.51,21.95
+2025-08-01,2025,8,Q3,Industrie,West,Umsatzerlöse,Erlös,105070.49,101861.76,105070.49,3208.73
+2025-08-01,2025,8,Q3,Service,Nord,Materialaufwand,Aufwand,5436.88,5540.83,5436.88,-103.95
+2025-08-01,2025,8,Q3,Service,Nord,Personalaufwand,Aufwand,18877.35,19208.22,18877.35,-330.87
+2025-08-01,2025,8,Q3,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3332.3,3324.5,3332.3,7.8
+2025-08-01,2025,8,Q3,Service,Nord,Umsatzerlöse,Erlös,36897.67,36938.88,36897.67,-41.21
+2025-08-01,2025,8,Q3,Service,Ost,Materialaufwand,Aufwand,4402.46,4533.41,4402.46,-130.95
+2025-08-01,2025,8,Q3,Service,Ost,Personalaufwand,Aufwand,16160.48,15715.81,16160.48,444.67
+2025-08-01,2025,8,Q3,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,2689.76,2720.04,2689.76,-30.28
+2025-08-01,2025,8,Q3,Service,Ost,Umsatzerlöse,Erlös,32624.85,30222.72,32624.85,2402.13
+2025-08-01,2025,8,Q3,Service,Süd,Materialaufwand,Aufwand,8393.62,8563.1,8393.62,-169.48
+2025-08-01,2025,8,Q3,Service,Süd,Personalaufwand,Aufwand,29242.87,29685.43,29242.87,-442.56
+2025-08-01,2025,8,Q3,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5338.07,5137.86,5338.07,200.21
+2025-08-01,2025,8,Q3,Service,Süd,Umsatzerlöse,Erlös,44574.67,57087.36,44574.67,-12512.69
+2025-08-01,2025,8,Q3,Service,West,Materialaufwand,Aufwand,6751.11,6548.26,6751.11,202.85
+2025-08-01,2025,8,Q3,Service,West,Personalaufwand,Aufwand,23655.49,22700.62,23655.49,954.87
+2025-08-01,2025,8,Q3,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,4009.93,3928.95,4009.93,80.98
+2025-08-01,2025,8,Q3,Service,West,Umsatzerlöse,Erlös,43981.75,43655.04,43981.75,326.71
+2025-09-01,2025,9,Q3,Handel,Nord,Materialaufwand,Aufwand,45598.11,47062.09,45598.11,-1463.98
+2025-09-01,2025,9,Q3,Handel,Nord,Personalaufwand,Aufwand,10765.99,10626.92,10765.99,139.07
+2025-09-01,2025,9,Q3,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,6613.69,6831.59,6613.69,-217.9
+2025-09-01,2025,9,Q3,Handel,Nord,Umsatzerlöse,Erlös,75299.05,75906.6,75299.05,-607.55
+2025-09-01,2025,9,Q3,Handel,Ost,Materialaufwand,Aufwand,42420.6,38505.35,42420.6,3915.25
+2025-09-01,2025,9,Q3,Handel,Ost,Personalaufwand,Aufwand,9016.84,8694.76,9016.84,322.08
+2025-09-01,2025,9,Q3,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,5522.69,5589.49,5522.69,-66.8
+2025-09-01,2025,9,Q3,Handel,Ost,Umsatzerlöse,Erlös,66854.83,62105.4,66854.83,4749.43
+2025-09-01,2025,9,Q3,Handel,Süd,Materialaufwand,Aufwand,68742.57,72732.32,68742.57,-3989.75
+2025-09-01,2025,9,Q3,Handel,Süd,Personalaufwand,Aufwand,16408.08,16423.43,16408.08,-15.35
+2025-09-01,2025,9,Q3,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,10741.51,10557.92,10741.51,183.59
+2025-09-01,2025,9,Q3,Handel,Süd,Umsatzerlöse,Erlös,113562.51,117310.2,113562.51,-3747.69
+2025-09-01,2025,9,Q3,Handel,West,Materialaufwand,Aufwand,55342.94,55618.84,55342.94,-275.9
+2025-09-01,2025,9,Q3,Handel,West,Personalaufwand,Aufwand,13019.7,12559.09,13019.7,460.61
+2025-09-01,2025,9,Q3,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,8078.78,8073.7,8078.78,5.08
+2025-09-01,2025,9,Q3,Handel,West,Umsatzerlöse,Erlös,92919.87,89707.8,92919.87,3212.07
+2025-09-01,2025,9,Q3,Industrie,Nord,Materialaufwand,Aufwand,57008.83,49363.78,57008.83,7645.05
+2025-09-01,2025,9,Q3,Industrie,Nord,Personalaufwand,Aufwand,21077.57,22625.06,21077.57,-1547.49
+2025-09-01,2025,9,Q3,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,8941.84,9255.71,8941.84,-313.87
+2025-09-01,2025,9,Q3,Industrie,Nord,Umsatzerlöse,Erlös,109520.98,102841.2,109520.98,6679.78
+2025-09-01,2025,9,Q3,Industrie,Ost,Materialaufwand,Aufwand,45000.08,40388.54,45000.08,4611.54
+2025-09-01,2025,9,Q3,Industrie,Ost,Personalaufwand,Aufwand,17841.45,18511.42,17841.45,-669.97
+2025-09-01,2025,9,Q3,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,7826.95,7572.85,7826.95,254.1
+2025-09-01,2025,9,Q3,Industrie,Ost,Umsatzerlöse,Erlös,77488.59,84142.8,77488.59,-6654.21
+2025-09-01,2025,9,Q3,Industrie,Süd,Materialaufwand,Aufwand,85454.39,76289.47,85454.39,9164.92
+2025-09-01,2025,9,Q3,Industrie,Süd,Personalaufwand,Aufwand,35867.42,34966.01,35867.42,901.41
+2025-09-01,2025,9,Q3,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,14268.8,14304.28,14268.8,-35.48
+2025-09-01,2025,9,Q3,Industrie,Süd,Umsatzerlöse,Erlös,162631.82,158936.4,162631.82,3695.42
+2025-09-01,2025,9,Q3,Industrie,West,Materialaufwand,Aufwand,65042.9,58339.01,65042.9,6703.89
+2025-09-01,2025,9,Q3,Industrie,West,Personalaufwand,Aufwand,26665.84,26738.71,26665.84,-72.87
+2025-09-01,2025,9,Q3,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,11331.87,10938.56,11331.87,393.31
+2025-09-01,2025,9,Q3,Industrie,West,Umsatzerlöse,Erlös,123475.63,121539.6,123475.63,1936.03
+2025-09-01,2025,9,Q3,Service,Nord,Materialaufwand,Aufwand,6574.0,6611.22,6574.0,-37.22
+2025-09-01,2025,9,Q3,Service,Nord,Personalaufwand,Aufwand,22985.29,22918.9,22985.29,66.39
+2025-09-01,2025,9,Q3,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,3841.72,3966.73,3841.72,-125.01
+2025-09-01,2025,9,Q3,Service,Nord,Umsatzerlöse,Erlös,43698.77,44074.8,43698.77,-376.03
+2025-09-01,2025,9,Q3,Service,Ost,Materialaufwand,Aufwand,5745.59,5409.18,5745.59,336.41
+2025-09-01,2025,9,Q3,Service,Ost,Personalaufwand,Aufwand,19381.32,18751.82,19381.32,629.5
+2025-09-01,2025,9,Q3,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,3170.28,3245.51,3170.28,-75.23
+2025-09-01,2025,9,Q3,Service,Ost,Umsatzerlöse,Erlös,36529.51,36061.2,36529.51,468.31
+2025-09-01,2025,9,Q3,Service,Süd,Materialaufwand,Aufwand,10074.15,10217.34,10074.15,-143.19
+2025-09-01,2025,9,Q3,Service,Süd,Personalaufwand,Aufwand,35993.4,35420.11,35993.4,573.29
+2025-09-01,2025,9,Q3,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,5953.29,6130.4,5953.29,-177.11
+2025-09-01,2025,9,Q3,Service,Süd,Umsatzerlöse,Erlös,55041.8,68115.6,55041.8,-13073.8
+2025-09-01,2025,9,Q3,Service,West,Materialaufwand,Aufwand,7920.35,7813.26,7920.35,107.09
+2025-09-01,2025,9,Q3,Service,West,Personalaufwand,Aufwand,26687.16,27085.97,26687.16,-398.81
+2025-09-01,2025,9,Q3,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,5019.54,4687.96,5019.54,331.58
+2025-09-01,2025,9,Q3,Service,West,Umsatzerlöse,Erlös,52742.53,52088.4,52742.53,654.13
+2025-10-01,2025,10,Q4,Handel,Nord,Materialaufwand,Aufwand,,49303.14,48641.87,
+2025-10-01,2025,10,Q4,Handel,Nord,Personalaufwand,Aufwand,,11132.97,11092.48,
+2025-10-01,2025,10,Q4,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,,7156.91,7069.9,
+2025-10-01,2025,10,Q4,Handel,Nord,Umsatzerlöse,Erlös,,79521.2,79340.9,
+2025-10-01,2025,10,Q4,Handel,Ost,Materialaufwand,Aufwand,,40338.94,44090.34,
+2025-10-01,2025,10,Q4,Handel,Ost,Personalaufwand,Aufwand,,9108.79,9101.57,
+2025-10-01,2025,10,Q4,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,,5855.65,5821.02,
+2025-10-01,2025,10,Q4,Handel,Ost,Umsatzerlöse,Erlös,,65062.8,68589.44,
+2025-10-01,2025,10,Q4,Handel,Süd,Materialaufwand,Aufwand,,76195.77,75609.39,
+2025-10-01,2025,10,Q4,Handel,Süd,Personalaufwand,Aufwand,,17205.5,17067.95,
+2025-10-01,2025,10,Q4,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,,11060.68,11083.06,
+2025-10-01,2025,10,Q4,Handel,Süd,Umsatzerlöse,Erlös,,122896.4,120893.86,
+2025-10-01,2025,10,Q4,Handel,West,Materialaufwand,Aufwand,,58267.35,58490.99,
+2025-10-01,2025,10,Q4,Handel,West,Personalaufwand,Aufwand,,13157.14,13390.68,
+2025-10-01,2025,10,Q4,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,,8458.16,8448.32,
+2025-10-01,2025,10,Q4,Handel,West,Umsatzerlöse,Erlös,,93979.6,94442.93,
+2025-10-01,2025,10,Q4,Industrie,Nord,Materialaufwand,Aufwand,,51714.43,54404.61,
+2025-10-01,2025,10,Q4,Industrie,Nord,Personalaufwand,Aufwand,,23702.45,23283.57,
+2025-10-01,2025,10,Q4,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,,9696.46,9679.31,
+2025-10-01,2025,10,Q4,Industrie,Nord,Umsatzerlöse,Erlös,,107738.4,108608.64,
+2025-10-01,2025,10,Q4,Industrie,Ost,Materialaufwand,Aufwand,,42311.81,44647.56,
+2025-10-01,2025,10,Q4,Industrie,Ost,Personalaufwand,Aufwand,,19392.91,19483.71,
+2025-10-01,2025,10,Q4,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,,7933.46,7844.95,
+2025-10-01,2025,10,Q4,Industrie,Ost,Umsatzerlöse,Erlös,,88149.6,89043.69,
+2025-10-01,2025,10,Q4,Industrie,Süd,Materialaufwand,Aufwand,,79922.3,84810.81,
+2025-10-01,2025,10,Q4,Industrie,Süd,Personalaufwand,Aufwand,,36631.06,37093.1,
+2025-10-01,2025,10,Q4,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,,14985.43,14884.33,
+2025-10-01,2025,10,Q4,Industrie,Süd,Umsatzerlöse,Erlös,,166504.8,167581.25,
+2025-10-01,2025,10,Q4,Industrie,West,Materialaufwand,Aufwand,,61117.06,64987.49,
+2025-10-01,2025,10,Q4,Industrie,West,Personalaufwand,Aufwand,,28011.98,28015.43,
+2025-10-01,2025,10,Q4,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,,11459.45,11378.33,
+2025-10-01,2025,10,Q4,Industrie,West,Umsatzerlöse,Erlös,,127327.2,128513.23,
+2025-10-01,2025,10,Q4,Service,Nord,Materialaufwand,Aufwand,,6926.04,6809.48,
+2025-10-01,2025,10,Q4,Service,Nord,Personalaufwand,Aufwand,,24010.27,24318.86,
+2025-10-01,2025,10,Q4,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,,4155.62,4144.7,
+2025-10-01,2025,10,Q4,Service,Nord,Umsatzerlöse,Erlös,,46173.6,46109.36,
+2025-10-01,2025,10,Q4,Service,Ost,Materialaufwand,Aufwand,,5666.76,5809.34,
+2025-10-01,2025,10,Q4,Service,Ost,Personalaufwand,Aufwand,,19644.77,19638.43,
+2025-10-01,2025,10,Q4,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,,3400.06,3428.7,
+2025-10-01,2025,10,Q4,Service,Ost,Umsatzerlöse,Erlös,,37778.4,37958.64,
+2025-10-01,2025,10,Q4,Service,Süd,Materialaufwand,Aufwand,,10703.88,10712.77,
+2025-10-01,2025,10,Q4,Service,Süd,Personalaufwand,Aufwand,,37106.78,37878.24,
+2025-10-01,2025,10,Q4,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,,6422.33,6418.74,
+2025-10-01,2025,10,Q4,Service,Süd,Umsatzerlöse,Erlös,,71359.2,64756.62,
+2025-10-01,2025,10,Q4,Service,West,Materialaufwand,Aufwand,,8185.32,8334.36,
+2025-10-01,2025,10,Q4,Service,West,Personalaufwand,Aufwand,,28375.78,28625.98,
+2025-10-01,2025,10,Q4,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,,4911.19,4980.88,
+2025-10-01,2025,10,Q4,Service,West,Umsatzerlöse,Erlös,,54568.8,55509.77,
+2025-11-01,2025,11,Q4,Handel,Nord,Materialaufwand,Aufwand,,50199.56,49526.27,
+2025-11-01,2025,11,Q4,Handel,Nord,Personalaufwand,Aufwand,,11335.39,11294.16,
+2025-11-01,2025,11,Q4,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,,7287.03,7198.44,
+2025-11-01,2025,11,Q4,Handel,Nord,Umsatzerlöse,Erlös,,80967.04,80783.46,
+2025-11-01,2025,11,Q4,Handel,Ost,Materialaufwand,Aufwand,,41072.37,44891.98,
+2025-11-01,2025,11,Q4,Handel,Ost,Personalaufwand,Aufwand,,9274.41,9267.06,
+2025-11-01,2025,11,Q4,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,,5962.12,5926.86,
+2025-11-01,2025,11,Q4,Handel,Ost,Umsatzerlöse,Erlös,,66245.76,69836.52,
+2025-11-01,2025,11,Q4,Handel,Süd,Materialaufwand,Aufwand,,77581.15,76984.11,
+2025-11-01,2025,11,Q4,Handel,Süd,Personalaufwand,Aufwand,,17518.32,17378.27,
+2025-11-01,2025,11,Q4,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,,11261.78,11284.57,
+2025-11-01,2025,11,Q4,Handel,Süd,Umsatzerlöse,Erlös,,125130.88,123091.93,
+2025-11-01,2025,11,Q4,Handel,West,Materialaufwand,Aufwand,,59326.76,59554.46,
+2025-11-01,2025,11,Q4,Handel,West,Personalaufwand,Aufwand,,13396.36,13634.14,
+2025-11-01,2025,11,Q4,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,,8611.95,8601.93,
+2025-11-01,2025,11,Q4,Handel,West,Umsatzerlöse,Erlös,,95688.32,96160.07,
+2025-11-01,2025,11,Q4,Industrie,Nord,Materialaufwand,Aufwand,,52654.69,55393.78,
+2025-11-01,2025,11,Q4,Industrie,Nord,Personalaufwand,Aufwand,,24133.4,23706.91,
+2025-11-01,2025,11,Q4,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,,9872.76,9855.29,
+2025-11-01,2025,11,Q4,Industrie,Nord,Umsatzerlöse,Erlös,,109697.28,110583.34,
+2025-11-01,2025,11,Q4,Industrie,Ost,Materialaufwand,Aufwand,,43081.11,45459.33,
+2025-11-01,2025,11,Q4,Industrie,Ost,Personalaufwand,Aufwand,,19745.51,19837.96,
+2025-11-01,2025,11,Q4,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,,8077.71,7987.59,
+2025-11-01,2025,11,Q4,Industrie,Ost,Umsatzerlöse,Erlös,,89752.32,90662.67,
+2025-11-01,2025,11,Q4,Industrie,Süd,Materialaufwand,Aufwand,,81375.44,86352.83,
+2025-11-01,2025,11,Q4,Industrie,Süd,Personalaufwand,Aufwand,,37297.08,37767.52,
+2025-11-01,2025,11,Q4,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,,15257.89,15154.95,
+2025-11-01,2025,11,Q4,Industrie,Süd,Umsatzerlöse,Erlös,,169532.16,170628.18,
+2025-11-01,2025,11,Q4,Industrie,West,Materialaufwand,Aufwand,,62228.28,66169.08,
+2025-11-01,2025,11,Q4,Industrie,West,Personalaufwand,Aufwand,,28521.29,28524.8,
+2025-11-01,2025,11,Q4,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,,11667.8,11585.21,
+2025-11-01,2025,11,Q4,Industrie,West,Umsatzerlöse,Erlös,,129642.24,130849.83,
+2025-11-01,2025,11,Q4,Service,Nord,Materialaufwand,Aufwand,,7051.97,6933.29,
+2025-11-01,2025,11,Q4,Service,Nord,Personalaufwand,Aufwand,,24446.82,24761.02,
+2025-11-01,2025,11,Q4,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,,4231.18,4220.06,
+2025-11-01,2025,11,Q4,Service,Nord,Umsatzerlöse,Erlös,,47013.12,46947.71,
+2025-11-01,2025,11,Q4,Service,Ost,Materialaufwand,Aufwand,,5769.79,5914.96,
+2025-11-01,2025,11,Q4,Service,Ost,Personalaufwand,Aufwand,,20001.95,19995.5,
+2025-11-01,2025,11,Q4,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,,3461.88,3491.04,
+2025-11-01,2025,11,Q4,Service,Ost,Umsatzerlöse,Erlös,,38465.28,38648.8,
+2025-11-01,2025,11,Q4,Service,Süd,Materialaufwand,Aufwand,,10898.5,10907.55,
+2025-11-01,2025,11,Q4,Service,Süd,Personalaufwand,Aufwand,,37781.45,38566.94,
+2025-11-01,2025,11,Q4,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,,6539.1,6535.44,
+2025-11-01,2025,11,Q4,Service,Süd,Umsatzerlöse,Erlös,,72656.64,65934.01,
+2025-11-01,2025,11,Q4,Service,West,Materialaufwand,Aufwand,,8334.14,8485.89,
+2025-11-01,2025,11,Q4,Service,West,Personalaufwand,Aufwand,,28891.7,29146.45,
+2025-11-01,2025,11,Q4,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,,5000.49,5071.44,
+2025-11-01,2025,11,Q4,Service,West,Umsatzerlöse,Erlös,,55560.96,56519.04,
+2025-12-01,2025,12,Q4,Handel,Nord,Materialaufwand,Aufwand,,51095.99,50410.67,
+2025-12-01,2025,12,Q4,Handel,Nord,Personalaufwand,Aufwand,,11537.8,11495.84,
+2025-12-01,2025,12,Q4,Handel,Nord,Sonstige betriebliche Aufwendungen,Aufwand,,7417.16,7326.99,
+2025-12-01,2025,12,Q4,Handel,Nord,Umsatzerlöse,Erlös,,82412.88,82226.02,
+2025-12-01,2025,12,Q4,Handel,Ost,Materialaufwand,Aufwand,,41805.81,45693.62,
+2025-12-01,2025,12,Q4,Handel,Ost,Personalaufwand,Aufwand,,9440.02,9432.54,
+2025-12-01,2025,12,Q4,Handel,Ost,Sonstige betriebliche Aufwendungen,Aufwand,,6068.58,6032.69,
+2025-12-01,2025,12,Q4,Handel,Ost,Umsatzerlöse,Erlös,,67428.72,71083.6,
+2025-12-01,2025,12,Q4,Handel,Süd,Materialaufwand,Aufwand,,78966.52,78358.82,
+2025-12-01,2025,12,Q4,Handel,Süd,Personalaufwand,Aufwand,,17831.15,17688.6,
+2025-12-01,2025,12,Q4,Handel,Süd,Sonstige betriebliche Aufwendungen,Aufwand,,11462.88,11486.07,
+2025-12-01,2025,12,Q4,Handel,Süd,Umsatzerlöse,Erlös,,127365.36,125290.0,
+2025-12-01,2025,12,Q4,Handel,West,Materialaufwand,Aufwand,,60386.16,60617.93,
+2025-12-01,2025,12,Q4,Handel,West,Personalaufwand,Aufwand,,13635.59,13877.62,
+2025-12-01,2025,12,Q4,Handel,West,Sonstige betriebliche Aufwendungen,Aufwand,,8765.73,8755.53,
+2025-12-01,2025,12,Q4,Handel,West,Umsatzerlöse,Erlös,,97397.04,97877.22,
+2025-12-01,2025,12,Q4,Industrie,Nord,Materialaufwand,Aufwand,,53594.96,56382.96,
+2025-12-01,2025,12,Q4,Industrie,Nord,Personalaufwand,Aufwand,,24564.36,24130.25,
+2025-12-01,2025,12,Q4,Industrie,Nord,Sonstige betriebliche Aufwendungen,Aufwand,,10049.05,10031.27,
+2025-12-01,2025,12,Q4,Industrie,Nord,Umsatzerlöse,Erlös,,111656.16,112558.04,
+2025-12-01,2025,12,Q4,Industrie,Ost,Materialaufwand,Aufwand,,43850.42,46271.11,
+2025-12-01,2025,12,Q4,Industrie,Ost,Personalaufwand,Aufwand,,20098.11,20192.22,
+2025-12-01,2025,12,Q4,Industrie,Ost,Sonstige betriebliche Aufwendungen,Aufwand,,8221.95,8130.22,
+2025-12-01,2025,12,Q4,Industrie,Ost,Umsatzerlöse,Erlös,,91355.04,92281.64,
+2025-12-01,2025,12,Q4,Industrie,Süd,Materialaufwand,Aufwand,,82828.57,87894.84,
+2025-12-01,2025,12,Q4,Industrie,Süd,Personalaufwand,Aufwand,,37963.09,38441.93,
+2025-12-01,2025,12,Q4,Industrie,Süd,Sonstige betriebliche Aufwendungen,Aufwand,,15530.36,15425.58,
+2025-12-01,2025,12,Q4,Industrie,Süd,Umsatzerlöse,Erlös,,172559.52,173675.11,
+2025-12-01,2025,12,Q4,Industrie,West,Materialaufwand,Aufwand,,63339.49,67350.66,
+2025-12-01,2025,12,Q4,Industrie,West,Personalaufwand,Aufwand,,29030.6,29034.18,
+2025-12-01,2025,12,Q4,Industrie,West,Sonstige betriebliche Aufwendungen,Aufwand,,11876.16,11792.09,
+2025-12-01,2025,12,Q4,Industrie,West,Umsatzerlöse,Erlös,,131957.28,133186.43,
+2025-12-01,2025,12,Q4,Service,Nord,Materialaufwand,Aufwand,,7177.9,7057.1,
+2025-12-01,2025,12,Q4,Service,Nord,Personalaufwand,Aufwand,,24883.37,25203.18,
+2025-12-01,2025,12,Q4,Service,Nord,Sonstige betriebliche Aufwendungen,Aufwand,,4306.74,4295.42,
+2025-12-01,2025,12,Q4,Service,Nord,Umsatzerlöse,Erlös,,47852.64,47786.06,
+2025-12-01,2025,12,Q4,Service,Ost,Materialaufwand,Aufwand,,5872.82,6020.58,
+2025-12-01,2025,12,Q4,Service,Ost,Personalaufwand,Aufwand,,20359.12,20352.55,
+2025-12-01,2025,12,Q4,Service,Ost,Sonstige betriebliche Aufwendungen,Aufwand,,3523.69,3553.37,
+2025-12-01,2025,12,Q4,Service,Ost,Umsatzerlöse,Erlös,,39152.16,39338.96,
+2025-12-01,2025,12,Q4,Service,Süd,Materialaufwand,Aufwand,,11093.11,11102.32,
+2025-12-01,2025,12,Q4,Service,Süd,Personalaufwand,Aufwand,,38456.12,39255.63,
+2025-12-01,2025,12,Q4,Service,Süd,Sonstige betriebliche Aufwendungen,Aufwand,,6655.87,6652.15,
+2025-12-01,2025,12,Q4,Service,Süd,Umsatzerlöse,Erlös,,73954.08,67111.4,
+2025-12-01,2025,12,Q4,Service,West,Materialaufwand,Aufwand,,8482.97,8637.43,
+2025-12-01,2025,12,Q4,Service,West,Personalaufwand,Aufwand,,29407.62,29666.92,
+2025-12-01,2025,12,Q4,Service,West,Sonstige betriebliche Aufwendungen,Aufwand,,5089.78,5162.0,
+2025-12-01,2025,12,Q4,Service,West,Umsatzerlöse,Erlös,,56553.12,57528.31,
